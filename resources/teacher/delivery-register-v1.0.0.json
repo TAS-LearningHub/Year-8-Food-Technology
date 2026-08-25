@@ -1,0 +1,2274 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_id": "yr8-food-tech-delivery-register-2026-v1",
+  "version": "1.0.0",
+  "course_id": "yr8-food-tech-2026",
+  "integration_baseline": {
+    "artifact_id": "yr8-food-tech-integrated-candidate-2026-08-25-v3",
+    "sha256": "5ae908cfad6cf13f5650a4f3c9f2aaef73399c435ef8ef950f33f58e08f47500"
+  },
+  "planning_model": "40 provisional lesson packages across the source-defined 20-week semester candidate; actual periods, duration and practical calendar are Teacher to confirm.",
+  "type_counts": {
+    "Site/theory": 18,
+    "Project/folio": 12,
+    "Practical": 10
+  },
+  "practical_share_of_packages": 0.25,
+  "practical_majority_status": "Not demonstrated by planning-row count. The actual timetable and practical calendar must add or expand supervised practical blocks so practical experiences make up the majority of course time.",
+  "actual_fields_state": "blank before delivery",
+  "periods": [
+    {
+      "period": 1,
+      "planned_focus": "Personal hygiene and handwashing",
+      "module_id": "m01",
+      "section_id": "m01-s01",
+      "timing": "Weeks 1–2",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m01-s01 Personal hygiene and handwashing. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-01-handwashing-sequence, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "safety-routines",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m01-s01",
+        "site-check-m01-s01",
+        "site-evidence-m01-s01",
+        "site-activity-embedded-m01-s01",
+        "site-activity-bank-act-01-handwashing-sequence",
+        "site-visual-m01-s01",
+        "site-video-embedded-m01-s01",
+        "site-video-library-m01-s01",
+        "site-presentation-m01",
+        "site-visual-p01-practical-ready",
+        "site-visual-p03-washing-station",
+        "site-visual-photo-m01",
+        "site-folio-stage-05-safe-readiness"
+      ],
+      "planned_evidence": "kc-m01-s01 (10 checks); act-01-handwashing-sequence; capstone-m01-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 2,
+      "planned_focus": "Kitchen hazards and safe routines",
+      "module_id": "m01",
+      "section_id": "m01-s02",
+      "timing": "Weeks 1–2",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m01-s02 Kitchen hazards and safe routines. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-02-hazard-control-match, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Assess risks when managing safe and hygienic handling of ingredients and equipment.",
+          "display": "Assess risks in hygienic ingredient and equipment handling.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "course-program",
+        "safety-routines",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m01-s02",
+        "site-check-m01-s02",
+        "site-evidence-m01-s02",
+        "site-activity-embedded-m01-s02",
+        "site-activity-bank-act-02-hazard-control-match",
+        "site-visual-m01-s02",
+        "site-video-embedded-m01-s02",
+        "site-video-library-m01-s02",
+        "site-presentation-m01",
+        "site-folio-stage-05-safe-readiness"
+      ],
+      "planned_evidence": "kc-m01-s02 (10 checks); act-02-hazard-control-match; capstone-m01-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 3,
+      "planned_focus": "Washing up, cleaning and sanitising",
+      "module_id": "m01",
+      "section_id": "m01-s03",
+      "timing": "Weeks 1–2",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m01-s03 Washing up, cleaning and sanitising. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-03-clean-sanitise-sort, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "safety-routines",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m01-s03",
+        "site-check-m01-s03",
+        "site-evidence-m01-s03",
+        "site-activity-embedded-m01-s03",
+        "site-activity-bank-act-03-clean-sanitise-sort",
+        "site-visual-m01-s03",
+        "site-video-embedded-m01-s03",
+        "site-video-library-m01-s03",
+        "site-presentation-m01"
+      ],
+      "planned_evidence": "kc-m01-s03 (10 checks); act-03-clean-sanitise-sort; capstone-m01-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 4,
+      "planned_focus": "Candidate supervised practical - Pikelets",
+      "module_id": "m01",
+      "section_id": null,
+      "timing": "Weeks 1–2",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program"
+      ],
+      "site_ids": [
+        "site-theory-m01-s01",
+        "site-theory-m01-s02",
+        "site-theory-m01-s03",
+        "site-visual-p01-practical-ready",
+        "site-visual-p03-washing-station",
+        "site-visual-photo-m01"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 5,
+      "planned_focus": "Reading recipes and cooking terms",
+      "module_id": "m02",
+      "section_id": "m02-s01",
+      "timing": "Weeks 2–4",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m02-s01 Reading recipes and cooking terms. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-04-recipe-anatomy-label, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Identify and describe food preparation techniques and practices.",
+          "display": "Describe food preparation techniques and practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m02-s01",
+        "site-check-m02-s01",
+        "site-evidence-m02-s01",
+        "site-activity-embedded-m02-s01",
+        "site-activity-bank-act-04-recipe-anatomy-label",
+        "site-visual-m02-s01",
+        "site-video-embedded-m02-s01",
+        "site-video-library-m02-s01",
+        "site-presentation-m02",
+        "site-visual-p02-mise-en-place",
+        "site-visual-p04-scaling-example",
+        "site-visual-photo-m02"
+      ],
+      "planned_evidence": "kc-m02-s01 (10 checks); act-04-recipe-anatomy-label; capstone-m02-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 6,
+      "planned_focus": "Selecting equipment and techniques",
+      "module_id": "m02",
+      "section_id": "m02-s02",
+      "timing": "Weeks 2–4",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m02-s02 Selecting equipment and techniques. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-05-equipment-choice, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Identify and describe food preparation techniques and practices.",
+          "display": "Describe food preparation techniques and practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-USE-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m02-s02",
+        "site-check-m02-s02",
+        "site-evidence-m02-s02",
+        "site-activity-embedded-m02-s02",
+        "site-activity-bank-act-05-equipment-choice",
+        "site-visual-m02-s02",
+        "site-video-embedded-m02-s02",
+        "site-video-library-m02-s02",
+        "site-presentation-m02"
+      ],
+      "planned_evidence": "kc-m02-s02 (10 checks); act-05-equipment-choice; capstone-m02-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 7,
+      "planned_focus": "Measuring, converting and scaling",
+      "module_id": "m02",
+      "section_id": "m02-s03",
+      "timing": "Weeks 2–4",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m02-s03 Measuring, converting and scaling. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-06-conversion-retrieval, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Identify and describe food preparation techniques and practices.",
+          "display": "Describe food preparation techniques and practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-USE-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "recipe-booklet",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m02-s03",
+        "site-check-m02-s03",
+        "site-evidence-m02-s03",
+        "site-activity-embedded-m02-s03",
+        "site-activity-bank-act-06-conversion-retrieval",
+        "site-visual-m02-s03",
+        "site-video-embedded-m02-s03",
+        "site-video-library-m02-s03",
+        "site-presentation-m02"
+      ],
+      "planned_evidence": "kc-m02-s03 (10 checks); act-06-conversion-retrieval; capstone-m02-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 8,
+      "planned_focus": "Candidate supervised practical - Mini beef sliders",
+      "module_id": "m02",
+      "section_id": null,
+      "timing": "Weeks 2–4",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Identify and describe food preparation techniques and practices.",
+          "display": "Describe food preparation techniques and practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program"
+      ],
+      "site_ids": [
+        "site-theory-m02-s01",
+        "site-theory-m02-s02",
+        "site-theory-m02-s03",
+        "site-visual-p02-mise-en-place",
+        "site-visual-p04-scaling-example",
+        "site-visual-photo-m02"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 9,
+      "planned_focus": "Cross-contamination pathways",
+      "module_id": "m03",
+      "section_id": "m03-s01",
+      "timing": "Weeks 3–5",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m03-s01 Cross-contamination pathways. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-07-contamination-pathway, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Assess risks when managing safe and hygienic handling of ingredients and equipment.",
+          "display": "Assess risks in hygienic ingredient and equipment handling.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "safety-routines",
+        "assessment-workbook",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m03-s01",
+        "site-check-m03-s01",
+        "site-evidence-m03-s01",
+        "site-activity-embedded-m03-s01",
+        "site-activity-bank-act-07-contamination-pathway",
+        "site-visual-m03-s01",
+        "site-video-embedded-m03-s01",
+        "site-video-library-m03-s01",
+        "site-presentation-m03",
+        "site-visual-p05-storage-shelves",
+        "site-visual-photo-m03",
+        "site-folio-stage-05-safe-readiness"
+      ],
+      "planned_evidence": "kc-m03-s01 (10 checks); act-07-contamination-pathway; capstone-m03-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 10,
+      "planned_focus": "Temperature control and storage",
+      "module_id": "m03",
+      "section_id": "m03-s02",
+      "timing": "Weeks 3–5",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m03-s02 Temperature control and storage. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-08-temperature-storage-decisions, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Assess risks when managing safe and hygienic handling of ingredients and equipment.",
+          "display": "Assess risks in hygienic ingredient and equipment handling.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "official-food-safety-guidance",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m03-s02",
+        "site-check-m03-s02",
+        "site-evidence-m03-s02",
+        "site-activity-embedded-m03-s02",
+        "site-activity-bank-act-08-temperature-storage-decisions",
+        "site-visual-m03-s02",
+        "site-video-embedded-m03-s02",
+        "site-video-library-m03-s02",
+        "site-presentation-m03"
+      ],
+      "planned_evidence": "kc-m03-s02 (10 checks); act-08-temperature-storage-decisions; capstone-m03-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 11,
+      "planned_focus": "Allergens and safe food choices",
+      "module_id": "m03",
+      "section_id": "m03-s03",
+      "timing": "Weeks 3–5",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m03-s03 Allergens and safe food choices. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-09-allergen-communication, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Compare food allergies and intolerances to determine suitable food selection for individuals.",
+          "display": "Compare allergies and intolerances for suitable choices.",
+          "source_id": "nesa-content-nutrition-stage4"
+        },
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "official-allergen-guidance",
+        "nesa-content-fdpp-stage4",
+        "nesa-content-nutrition-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m03-s03",
+        "site-check-m03-s03",
+        "site-evidence-m03-s03",
+        "site-activity-embedded-m03-s03",
+        "site-activity-bank-act-09-allergen-communication",
+        "site-visual-m03-s03",
+        "site-video-embedded-m03-s03",
+        "site-video-library-m03-s03",
+        "site-presentation-m03",
+        "site-folio-stage-05-safe-readiness"
+      ],
+      "planned_evidence": "kc-m03-s03 (10 checks); act-09-allergen-communication; capstone-m03-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 12,
+      "planned_focus": "Candidate supervised practical - Chocolate raspberry muffins",
+      "module_id": "m03",
+      "section_id": null,
+      "timing": "Weeks 3–5",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Compare food allergies and intolerances to determine suitable food selection for individuals.",
+          "display": "Compare allergies and intolerances for suitable choices.",
+          "source_id": "nesa-content-nutrition-stage4"
+        },
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program"
+      ],
+      "site_ids": [
+        "site-theory-m03-s01",
+        "site-theory-m03-s02",
+        "site-theory-m03-s03",
+        "site-visual-p05-storage-shelves",
+        "site-visual-photo-m03"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 13,
+      "planned_focus": "Six essential nutrients",
+      "module_id": "m04",
+      "section_id": "m04-s01",
+      "timing": "Weeks 4–7",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m04-s01 Six essential nutrients. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-10-nutrient-function-match, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Explain how the body uses nutrients from food for growth, repair and daily function.",
+          "display": "Explain how the body uses nutrients.",
+          "source_id": "nesa-content-nutrition-stage4"
+        },
+        {
+          "statement": "Outline functions and food sources of water, proteins, lipids, carbohydrates, vitamins and minerals.",
+          "display": "Outline nutrient functions and food sources.",
+          "source_id": "nesa-content-nutrition-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "student-nutrient-scaffold",
+        "nesa-content-nutrition-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m04-s01",
+        "site-check-m04-s01",
+        "site-evidence-m04-s01",
+        "site-activity-embedded-m04-s01",
+        "site-activity-bank-act-10-nutrient-function-match",
+        "site-visual-m04-s01",
+        "site-video-embedded-m04-s01",
+        "site-video-library-m04-s01",
+        "site-presentation-m04",
+        "site-visual-photo-m04"
+      ],
+      "planned_evidence": "kc-m04-s01 (10 checks); act-10-nutrient-function-match; capstone-m04-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 14,
+      "planned_focus": "Food groups and balanced choices",
+      "module_id": "m04",
+      "section_id": "m04-s02",
+      "timing": "Weeks 4–7",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m04-s02 Food groups and balanced choices. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-11-food-group-menu-sort, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Investigate and evaluate food guides that promote balanced and nutritious food choices.",
+          "display": "Evaluate guides for balanced, nutritious choices.",
+          "source_id": "nesa-content-nutrition-stage4"
+        },
+        {
+          "statement": "Examine physiological, psychological, social and economic factors that influence food selection.",
+          "display": "Examine factors that influence food selection.",
+          "source_id": "nesa-content-nutrition-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "official-australian-dietary-guidance",
+        "nesa-content-nutrition-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m04-s02",
+        "site-check-m04-s02",
+        "site-evidence-m04-s02",
+        "site-activity-embedded-m04-s02",
+        "site-activity-bank-act-11-food-group-menu-sort",
+        "site-visual-m04-s02",
+        "site-video-embedded-m04-s02",
+        "site-video-library-m04-s02",
+        "site-presentation-m04"
+      ],
+      "planned_evidence": "kc-m04-s02 (10 checks); act-11-food-group-menu-sort; capstone-m04-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 15,
+      "planned_focus": "Added sugar and informed media choices",
+      "module_id": "m04",
+      "section_id": "m04-s03",
+      "timing": "Weeks 4–7",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m04-s03 Added sugar and informed media choices. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-12-media-claim-check, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Investigate how media may influence food selection and the health of individuals and society.",
+          "display": "Investigate media influence on food selection and health.",
+          "source_id": "nesa-content-nutrition-stage4"
+        },
+        {
+          "statement": "Assess nutritional claims used to influence consumer choice.",
+          "display": "Assess nutritional claims that influence choice.",
+          "source_id": "nesa-content-nutrition-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-NSA-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "sugar-media-study",
+        "food-knowledge",
+        "official-australian-dietary-guidance",
+        "nesa-content-nutrition-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m04-s03",
+        "site-check-m04-s03",
+        "site-evidence-m04-s03",
+        "site-activity-embedded-m04-s03",
+        "site-activity-bank-act-12-media-claim-check",
+        "site-visual-m04-s03",
+        "site-video-embedded-m04-s03",
+        "site-video-library-m04-s03",
+        "site-presentation-m04",
+        "site-folio-stage-03-research-ideas"
+      ],
+      "planned_evidence": "kc-m04-s03 (10 checks); act-12-media-claim-check; capstone-m04-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 16,
+      "planned_focus": "Candidate supervised practical - Calzone",
+      "module_id": "m04",
+      "section_id": null,
+      "timing": "Weeks 4–7",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Investigate how media may influence food selection and the health of individuals and society.",
+          "display": "Investigate media influence on food selection and health.",
+          "source_id": "nesa-content-nutrition-stage4"
+        },
+        {
+          "statement": "Assess nutritional claims used to influence consumer choice.",
+          "display": "Assess nutritional claims that influence choice.",
+          "source_id": "nesa-content-nutrition-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program"
+      ],
+      "site_ids": [
+        "site-theory-m04-s01",
+        "site-theory-m04-s02",
+        "site-theory-m04-s03",
+        "site-visual-photo-m04"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 17,
+      "planned_focus": "Reasons for cooking",
+      "module_id": "m05",
+      "section_id": "m05-s01",
+      "timing": "Weeks 7–8",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m05-s01 Reasons for cooking. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-13-reasons-for-cooking, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Identify and describe food preparation techniques and practices.",
+          "display": "Describe food preparation techniques and practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Investigate physical and nutritional changes that occur when preparing and cooking food.",
+          "display": "Investigate physical and nutritional cooking changes.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "course-program",
+        "recipe-booklet",
+        "food-knowledge",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m05-s01",
+        "site-check-m05-s01",
+        "site-evidence-m05-s01",
+        "site-activity-embedded-m05-s01",
+        "site-activity-bank-act-13-reasons-for-cooking",
+        "site-visual-m05-s01",
+        "site-video-embedded-m05-s01",
+        "site-video-library-m05-s01",
+        "site-presentation-m05",
+        "site-visual-photo-m05"
+      ],
+      "planned_evidence": "kc-m05-s01 (10 checks); act-13-reasons-for-cooking; capstone-m05-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 18,
+      "planned_focus": "Denaturation, dextrinisation and emulsification",
+      "module_id": "m05",
+      "section_id": "m05-s02",
+      "timing": "Weeks 7–8",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m05-s02 Denaturation, dextrinisation and emulsification. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-14-food-science-classify, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Assess functional properties of ingredients in food planned and prepared for a specific context.",
+          "display": "Assess ingredient functional properties for a context.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Investigate physical and nutritional changes that occur when preparing and cooking food.",
+          "display": "Investigate physical and nutritional cooking changes.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m05-s02",
+        "site-check-m05-s02",
+        "site-evidence-m05-s02",
+        "site-activity-embedded-m05-s02",
+        "site-activity-bank-act-14-food-science-classify",
+        "site-visual-m05-s02",
+        "site-video-embedded-m05-s02",
+        "site-video-library-m05-s02",
+        "site-presentation-m05"
+      ],
+      "planned_evidence": "kc-m05-s02 (10 checks); act-14-food-science-classify; capstone-m05-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 19,
+      "planned_focus": "Fair ingredient tests and observations",
+      "module_id": "m05",
+      "section_id": "m05-s03",
+      "timing": "Weeks 7–8",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m05-s03 Fair ingredient tests and observations. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-15-fair-test-sequence, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Justify food design ideas through ingredient testing and experimentation for a specific context.",
+          "display": "Justify food ideas through testing and experimentation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m05-s03",
+        "site-check-m05-s03",
+        "site-evidence-m05-s03",
+        "site-activity-embedded-m05-s03",
+        "site-activity-bank-act-15-fair-test-sequence",
+        "site-visual-m05-s03",
+        "site-video-embedded-m05-s03",
+        "site-video-library-m05-s03",
+        "site-presentation-m05"
+      ],
+      "planned_evidence": "kc-m05-s03 (10 checks); act-15-fair-test-sequence; capstone-m05-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 20,
+      "planned_focus": "Candidate supervised practical - Jam drops",
+      "module_id": "m05",
+      "section_id": null,
+      "timing": "Weeks 7–8",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Justify food design ideas through ingredient testing and experimentation for a specific context.",
+          "display": "Justify food ideas through testing and experimentation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program"
+      ],
+      "site_ids": [
+        "site-theory-m05-s01",
+        "site-theory-m05-s02",
+        "site-theory-m05-s03",
+        "site-visual-photo-m05"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 21,
+      "planned_focus": "The five senses",
+      "module_id": "m06",
+      "section_id": "m06-s01",
+      "timing": "Week 9",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m06-s01 The five senses. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-16-five-senses-label, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Evaluate how preparation techniques affect appearance, aroma, flavour and texture.",
+          "display": "Evaluate technique effects on sensory qualities.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "assessment-workbook",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m06-s01",
+        "site-check-m06-s01",
+        "site-evidence-m06-s01",
+        "site-activity-embedded-m06-s01",
+        "site-activity-bank-act-16-five-senses-label",
+        "site-visual-m06-s01",
+        "site-video-embedded-m06-s01",
+        "site-video-library-m06-s01",
+        "site-presentation-m06",
+        "site-visual-p06-sensory-protocol",
+        "site-visual-photo-m06",
+        "site-folio-stage-07-testing"
+      ],
+      "planned_evidence": "kc-m06-s01 (10 checks); act-16-five-senses-label; capstone-m06-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 22,
+      "planned_focus": "Precise sensory language and fair comparisons",
+      "module_id": "m06",
+      "section_id": "m06-s02",
+      "timing": "Week 9",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m06-s02 Precise sensory language and fair comparisons. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-17-descriptor-sort, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Evaluate how preparation techniques affect appearance, aroma, flavour and texture.",
+          "display": "Evaluate technique effects on sensory qualities.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Justify food design ideas through ingredient testing and experimentation for a specific context.",
+          "display": "Justify food ideas through testing and experimentation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "assessment-workbook",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m06-s02",
+        "site-check-m06-s02",
+        "site-evidence-m06-s02",
+        "site-activity-embedded-m06-s02",
+        "site-activity-bank-act-17-descriptor-sort",
+        "site-visual-m06-s02",
+        "site-video-embedded-m06-s02",
+        "site-video-library-m06-s02",
+        "site-presentation-m06",
+        "site-folio-stage-07-testing"
+      ],
+      "planned_evidence": "kc-m06-s02 (10 checks); act-17-descriptor-sort; capstone-m06-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 23,
+      "planned_focus": "Using evidence to improve food",
+      "module_id": "m06",
+      "section_id": "m06-s03",
+      "timing": "Week 9",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m06-s03 Using evidence to improve food. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-18-sensory-improvement, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Evaluate how preparation techniques affect appearance, aroma, flavour and texture.",
+          "display": "Evaluate technique effects on sensory qualities.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Justify food design ideas through ingredient testing and experimentation for a specific context.",
+          "display": "Justify food ideas through testing and experimentation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "assessment-workbook",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m06-s03",
+        "site-check-m06-s03",
+        "site-evidence-m06-s03",
+        "site-activity-embedded-m06-s03",
+        "site-activity-bank-act-18-sensory-improvement",
+        "site-visual-m06-s03",
+        "site-video-embedded-m06-s03",
+        "site-video-library-m06-s03",
+        "site-presentation-m06",
+        "site-folio-stage-07-testing"
+      ],
+      "planned_evidence": "kc-m06-s03 (10 checks); act-18-sensory-improvement; capstone-m06-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 24,
+      "planned_focus": "Candidate supervised practical - Braided apple strudel",
+      "module_id": "m06",
+      "section_id": null,
+      "timing": "Week 9",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Evaluate how preparation techniques affect appearance, aroma, flavour and texture.",
+          "display": "Evaluate technique effects on sensory qualities.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Justify food design ideas through ingredient testing and experimentation for a specific context.",
+          "display": "Justify food ideas through testing and experimentation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program"
+      ],
+      "site_ids": [
+        "site-theory-m06-s01",
+        "site-theory-m06-s02",
+        "site-theory-m06-s03",
+        "site-visual-p06-sensory-protocol",
+        "site-visual-photo-m06"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 25,
+      "planned_focus": "Farm-to-plate systems",
+      "module_id": "m07",
+      "section_id": "m07-s01",
+      "timing": "Week 10",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m07-s01 Farm-to-plate systems. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-19-farm-to-plate-sequence, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Identify food production and distribution systems.",
+          "display": "Identify food production and distribution systems.",
+          "source_id": "nesa-content-sustainability-stage4"
+        },
+        {
+          "statement": "Investigate environmental conditions that influence sustainability and resilience in food production systems.",
+          "display": "Investigate conditions affecting food-system resilience.",
+          "source_id": "nesa-content-sustainability-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-ENV-01",
+        "FT5-IET-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "course-program",
+        "nesa-content-sustainability-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m07-s01",
+        "site-check-m07-s01",
+        "site-evidence-m07-s01",
+        "site-activity-embedded-m07-s01",
+        "site-activity-bank-act-19-farm-to-plate-sequence",
+        "site-visual-m07-s01",
+        "site-video-embedded-m07-s01",
+        "site-video-library-m07-s01",
+        "site-presentation-m07",
+        "site-visual-photo-m07"
+      ],
+      "planned_evidence": "kc-m07-s01 (10 checks); act-19-farm-to-plate-sequence; capstone-m07-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 26,
+      "planned_focus": "Australian food and fibre production",
+      "module_id": "m07",
+      "section_id": "m07-s02",
+      "timing": "Week 10",
+      "primary_type": "Site/theory",
+      "teaching_and_learning": "Teach m07-s02 Australian food and fibre production. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-20-production-role-match, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Discuss career pathways in food design and production.",
+          "display": "Discuss careers in food design and production.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Identify food production and distribution systems.",
+          "display": "Identify food production and distribution systems.",
+          "source_id": "nesa-content-sustainability-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-IET-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "official-australian-production-guidance",
+        "nesa-content-fdpp-stage4",
+        "nesa-content-sustainability-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m07-s02",
+        "site-check-m07-s02",
+        "site-evidence-m07-s02",
+        "site-activity-embedded-m07-s02",
+        "site-activity-bank-act-20-production-role-match",
+        "site-visual-m07-s02",
+        "site-video-embedded-m07-s02",
+        "site-video-library-m07-s02",
+        "site-presentation-m07"
+      ],
+      "planned_evidence": "kc-m07-s02 (10 checks); act-20-production-role-match; capstone-m07-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 27,
+      "planned_focus": "Waste, food security and sustainable choices",
+      "module_id": "m07",
+      "section_id": "m07-s03",
+      "timing": "Week 10",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m07-s03 Waste, food security and sustainable choices. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-21-sustainability-decisions, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Explain how local and community food systems can minimise food waste and improve sustainability.",
+          "display": "Explain how local systems reduce food waste.",
+          "source_id": "nesa-content-sustainability-stage4"
+        },
+        {
+          "statement": "Design and create meals that minimise food waste and improve environmental sustainability.",
+          "display": "Design meals that minimise food waste.",
+          "source_id": "nesa-content-sustainability-stage4"
+        },
+        {
+          "statement": "Discuss societal, ethical and environmental considerations for food supply and distribution.",
+          "display": "Discuss ethical, societal and environmental food-supply issues.",
+          "source_id": "nesa-content-sustainability-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-ENV-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "food-knowledge",
+        "official-sustainability-guidance",
+        "nesa-content-sustainability-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m07-s03",
+        "site-check-m07-s03",
+        "site-evidence-m07-s03",
+        "site-activity-embedded-m07-s03",
+        "site-activity-bank-act-21-sustainability-decisions",
+        "site-visual-m07-s03",
+        "site-video-embedded-m07-s03",
+        "site-video-library-m07-s03",
+        "site-presentation-m07"
+      ],
+      "planned_evidence": "kc-m07-s03 (10 checks); act-21-sustainability-decisions; capstone-m07-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 28,
+      "planned_focus": "Candidate supervised practical - Two-ingredient pizza dough",
+      "module_id": "m07",
+      "section_id": null,
+      "timing": "Week 10",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Explain how local and community food systems can minimise food waste and improve sustainability.",
+          "display": "Explain how local systems reduce food waste.",
+          "source_id": "nesa-content-sustainability-stage4"
+        },
+        {
+          "statement": "Design and create meals that minimise food waste and improve environmental sustainability.",
+          "display": "Design meals that minimise food waste.",
+          "source_id": "nesa-content-sustainability-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "course-program"
+      ],
+      "site_ids": [
+        "site-theory-m07-s01",
+        "site-theory-m07-s02",
+        "site-theory-m07-s03",
+        "site-visual-photo-m07"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 29,
+      "planned_focus": "User needs and constraints",
+      "module_id": "m08",
+      "section_id": "m08-s01",
+      "timing": "Term 2 · Weeks 1–3",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m08-s01 User needs and constraints. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-22-user-constraint-sort, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context.",
+          "display": "Apply design thinking to food ideas for a context.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Examine physiological, psychological, social and economic factors that influence food selection.",
+          "display": "Examine factors that influence food selection.",
+          "source_id": "nesa-content-nutrition-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-COM-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "party-recipes",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-content-nutrition-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m08-s01",
+        "site-check-m08-s01",
+        "site-evidence-m08-s01",
+        "site-activity-embedded-m08-s01",
+        "site-activity-bank-act-22-user-constraint-sort",
+        "site-visual-m08-s01",
+        "site-video-embedded-m08-s01",
+        "site-video-library-m08-s01",
+        "site-presentation-m08",
+        "site-visual-p07-party-evidence",
+        "site-visual-p08-costing-workflow",
+        "site-visual-photo-m08",
+        "site-folio-stage-01-brief",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m08-s01 (10 checks); act-22-user-constraint-sort; capstone-m08-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 30,
+      "planned_focus": "Menu balance and costing",
+      "module_id": "m08",
+      "section_id": "m08-s02",
+      "timing": "Term 2 · Weeks 1–3",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m08-s02 Menu balance and costing. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-23-costing-check, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context.",
+          "display": "Apply design thinking to food ideas for a context.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Investigate and evaluate food guides that promote balanced and nutritious food choices.",
+          "display": "Evaluate guides for balanced, nutritious choices.",
+          "source_id": "nesa-content-nutrition-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-COM-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "party-recipes",
+        "food-knowledge",
+        "nesa-content-fdpp-stage4",
+        "nesa-content-nutrition-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m08-s02",
+        "site-check-m08-s02",
+        "site-evidence-m08-s02",
+        "site-activity-embedded-m08-s02",
+        "site-activity-bank-act-23-costing-check",
+        "site-visual-m08-s02",
+        "site-video-embedded-m08-s02",
+        "site-video-library-m08-s02",
+        "site-presentation-m08",
+        "site-folio-stage-03-research-ideas",
+        "site-folio-stage-04-chosen-plan",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m08-s02 (10 checks); act-23-costing-check; capstone-m08-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 31,
+      "planned_focus": "Ideas, criteria and responsible choices",
+      "module_id": "m08",
+      "section_id": "m08-s03",
+      "timing": "Term 2 · Weeks 1–3",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m08-s03 Ideas, criteria and responsible choices. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-24-criteria-quality-check, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context.",
+          "display": "Apply design thinking to food ideas for a context.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Discuss societal, ethical and environmental considerations for food supply and distribution.",
+          "display": "Discuss ethical, societal and environmental food-supply issues.",
+          "source_id": "nesa-content-sustainability-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-COM-01",
+        "FT5-FPP-01",
+        "FT5-ENV-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "party-recipes",
+        "food-knowledge",
+        "nesa-content-fdpp-stage4",
+        "nesa-content-sustainability-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m08-s03",
+        "site-check-m08-s03",
+        "site-evidence-m08-s03",
+        "site-activity-embedded-m08-s03",
+        "site-activity-bank-act-24-criteria-quality-check",
+        "site-visual-m08-s03",
+        "site-video-embedded-m08-s03",
+        "site-video-library-m08-s03",
+        "site-presentation-m08",
+        "site-folio-stage-02-criteria",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m08-s03 (10 checks); act-24-criteria-quality-check; capstone-m08-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 32,
+      "planned_focus": "Candidate supervised practical - Honey-soy chicken wraps",
+      "module_id": "m08",
+      "section_id": null,
+      "timing": "Term 2 · Weeks 1–3",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context.",
+          "display": "Apply design thinking to food ideas for a context.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Discuss societal, ethical and environmental considerations for food supply and distribution.",
+          "display": "Discuss ethical, societal and environmental food-supply issues.",
+          "source_id": "nesa-content-sustainability-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-NSA-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "party-recipes"
+      ],
+      "site_ids": [
+        "site-theory-m08-s01",
+        "site-theory-m08-s02",
+        "site-theory-m08-s03",
+        "site-visual-p07-party-evidence",
+        "site-visual-p08-costing-workflow",
+        "site-visual-photo-m08",
+        "site-folio",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 33,
+      "planned_focus": "Recipe and equipment selection",
+      "module_id": "m09",
+      "section_id": "m09-s01",
+      "timing": "Term 2 · Weeks 3–5",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m09-s01 Recipe and equipment selection. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-25-recipe-equipment-plan, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Identify and describe food preparation techniques and practices.",
+          "display": "Describe food preparation techniques and practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-USE-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "party-recipes",
+        "assessment-workbook",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m09-s01",
+        "site-check-m09-s01",
+        "site-evidence-m09-s01",
+        "site-activity-embedded-m09-s01",
+        "site-activity-bank-act-25-recipe-equipment-plan",
+        "site-visual-m09-s01",
+        "site-video-embedded-m09-s01",
+        "site-video-library-m09-s01",
+        "site-presentation-m09",
+        "site-visual-p09-production-timeline",
+        "site-visual-photo-m09",
+        "site-folio-stage-04-chosen-plan",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m09-s01 (10 checks); act-25-recipe-equipment-plan; capstone-m09-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 34,
+      "planned_focus": "Workflow and collaboration",
+      "module_id": "m09",
+      "section_id": "m09-s02",
+      "timing": "Term 2 · Weeks 3–5",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m09-s02 Workflow and collaboration. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-26-workflow-sequence, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Apply planning and management skills when undertaking food preparation practices.",
+          "display": "Apply planning and management in food preparation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "recipe-booklet",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m09-s02",
+        "site-check-m09-s02",
+        "site-evidence-m09-s02",
+        "site-activity-embedded-m09-s02",
+        "site-activity-bank-act-26-workflow-sequence",
+        "site-visual-m09-s02",
+        "site-video-embedded-m09-s02",
+        "site-video-library-m09-s02",
+        "site-presentation-m09",
+        "site-folio-stage-06-production",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m09-s02 (10 checks); act-26-workflow-sequence; capstone-m09-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 35,
+      "planned_focus": "Candidate supervised practical - Party Task rehearsal or teacher-selected party recipe",
+      "module_id": "m09",
+      "section_id": null,
+      "timing": "Term 2 · Weeks 3–5",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Investigate and apply food presentation, photography and styling techniques.",
+          "display": "Apply food presentation, photography and styling techniques.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "party-recipes"
+      ],
+      "site_ids": [
+        "site-theory-m09-s01",
+        "site-theory-m09-s02",
+        "site-theory-m09-s03",
+        "site-visual-p09-production-timeline",
+        "site-visual-photo-m09",
+        "site-folio",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable",
+        "ttc-assessment-reconciliation"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 36,
+      "planned_focus": "Presentation, styling and photography",
+      "module_id": "m09",
+      "section_id": "m09-s03",
+      "timing": "Term 2 · Weeks 3–5",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m09-s03 Presentation, styling and photography. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-27-photo-evidence-choice, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Investigate and apply food presentation, photography and styling techniques.",
+          "display": "Apply food presentation, photography and styling techniques.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Identify and apply safe and hygienic food preparation practices.",
+          "display": "Apply safe and hygienic food preparation practices.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "recipe-booklet",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m09-s03",
+        "site-check-m09-s03",
+        "site-evidence-m09-s03",
+        "site-activity-embedded-m09-s03",
+        "site-activity-bank-act-27-photo-evidence-choice",
+        "site-visual-m09-s03",
+        "site-video-embedded-m09-s03",
+        "site-video-library-m09-s03",
+        "site-presentation-m09",
+        "site-folio-stage-06-production",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m09-s03 (10 checks); act-27-photo-evidence-choice; capstone-m09-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 37,
+      "planned_focus": "Candidate supervised practical - Party Task production using the reissued task conditions",
+      "module_id": "m10",
+      "section_id": null,
+      "timing": "Term 2 · Weeks 5–6",
+      "primary_type": "Practical",
+      "teaching_and_learning": "Use only the teacher-issued recipe or task conditions. Demonstrate, supervise and apply the matching module ideas; do not treat this candidate slot as mandatory until confirmed.",
+      "content_descriptors": [
+        {
+          "statement": "Justify food design ideas through ingredient testing and experimentation for a specific context.",
+          "display": "Justify food ideas through testing and experimentation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context.",
+          "display": "Apply design thinking to food ideas for a context.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-SAF-01",
+        "FT5-FPP-01",
+        "FT5-USE-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "recipe-booklet",
+        "party-recipes"
+      ],
+      "site_ids": [
+        "site-theory-m10-s01",
+        "site-theory-m10-s02",
+        "site-theory-m10-s03",
+        "site-visual-p10-evidence-filter",
+        "site-visual-photo-m10",
+        "site-folio",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "Teacher observation and a concise process/product record linked to the relevant folio stage; formative only unless current criteria are issued.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "candidate-only - recipe selection, date, local controls, allergies and substitutions are Teacher to confirm",
+      "teacher_to_confirm_ids": [
+        "ttc-practical-calendar",
+        "ttc-local-controls",
+        "ttc-food-needs",
+        "ttc-timetable",
+        "ttc-assessment-reconciliation"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 38,
+      "planned_focus": "Testing against criteria",
+      "module_id": "m10",
+      "section_id": "m10-s01",
+      "timing": "Term 2 · Weeks 5–6",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m10-s01 Testing against criteria. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-28-criteria-test-match, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Justify food design ideas through ingredient testing and experimentation for a specific context.",
+          "display": "Justify food ideas through testing and experimentation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Evaluate how preparation techniques affect appearance, aroma, flavour and texture.",
+          "display": "Evaluate technique effects on sensory qualities.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-FPP-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m10-s01",
+        "site-check-m10-s01",
+        "site-evidence-m10-s01",
+        "site-activity-embedded-m10-s01",
+        "site-activity-bank-act-28-criteria-test-match",
+        "site-visual-m10-s01",
+        "site-video-embedded-m10-s01",
+        "site-video-library-m10-s01",
+        "site-presentation-m10",
+        "site-visual-p10-evidence-filter",
+        "site-visual-photo-m10",
+        "site-folio-stage-02-criteria",
+        "site-folio-stage-07-testing",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m10-s01 (10 checks); act-28-criteria-test-match; capstone-m10-s01 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 39,
+      "planned_focus": "Evidence, sources and bibliography",
+      "module_id": "m10",
+      "section_id": "m10-s02",
+      "timing": "Term 2 · Weeks 5–6",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m10-s02 Evidence, sources and bibliography. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-29-source-record-sequence, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context.",
+          "display": "Apply design thinking to food ideas for a context.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-COM-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m10-s02",
+        "site-check-m10-s02",
+        "site-evidence-m10-s02",
+        "site-activity-embedded-m10-s02",
+        "site-activity-bank-act-29-source-record-sequence",
+        "site-visual-m10-s02",
+        "site-video-embedded-m10-s02",
+        "site-video-library-m10-s02",
+        "site-presentation-m10",
+        "site-folio-stage-08-evaluation",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m10-s02 (10 checks); act-29-source-record-sequence; capstone-m10-s02 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    },
+    {
+      "period": 40,
+      "planned_focus": "Reflection, improvement and communication",
+      "module_id": "m10",
+      "section_id": "m10-s03",
+      "timing": "Term 2 · Weeks 5–6",
+      "primary_type": "Project/folio",
+      "teaching_and_learning": "Teach m10-s03 Reflection, improvement and communication. Students read, inspect the visual, use the video or alternative, complete the 10-question check and act-30-reflection-improvement, then save the capstone.",
+      "content_descriptors": [
+        {
+          "statement": "Justify food design ideas through ingredient testing and experimentation for a specific context.",
+          "display": "Justify food ideas through testing and experimentation.",
+          "source_id": "nesa-content-fdpp-stage4"
+        },
+        {
+          "statement": "Apply creative concepts and design thinking to generate and evaluate food ideas for a specific context.",
+          "display": "Apply design thinking to food ideas for a context.",
+          "source_id": "nesa-content-fdpp-stage4"
+        }
+      ],
+      "outcome_codes": [
+        "FT4-ADJ-01",
+        "FT5-COM-01",
+        "FT5-FPP-01"
+      ],
+      "source_ids": [
+        "assessment-workbook",
+        "course-program",
+        "nesa-content-fdpp-stage4",
+        "nesa-course-overview"
+      ],
+      "site_ids": [
+        "site-theory-m10-s03",
+        "site-check-m10-s03",
+        "site-evidence-m10-s03",
+        "site-activity-embedded-m10-s03",
+        "site-activity-bank-act-30-reflection-improvement",
+        "site-visual-m10-s03",
+        "site-video-embedded-m10-s03",
+        "site-video-library-m10-s03",
+        "site-presentation-m10",
+        "site-folio-stage-08-evaluation",
+        "site-assessment-schedule",
+        "site-assessment-notification"
+      ],
+      "planned_evidence": "kc-m10-s03 (10 checks); act-30-reflection-improvement; capstone-m10-s03 saved formative response.",
+      "website_alignment_state": "mapped",
+      "practical_authority_state": "not an independent practical authority",
+      "teacher_to_confirm_ids": [
+        "ttc-timetable"
+      ],
+      "date_taught": "",
+      "teacher_initials": "",
+      "completion_or_variance": "",
+      "evidence_checked": "",
+      "adjustments": "",
+      "follow_up": ""
+    }
+  ]
+}

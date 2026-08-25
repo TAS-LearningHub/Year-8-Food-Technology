@@ -1,0 +1,2670 @@
+{
+  "schema_version": "1.0.0",
+  "artifact_id": "yr8-food-tech-site-alignment-map-2026-v1",
+  "version": "1.0.0",
+  "course_id": "yr8-food-tech-2026",
+  "integration_baseline": {
+    "artifact_id": "yr8-food-tech-integrated-candidate-2026-08-25-v3",
+    "sha256": "5ae908cfad6cf13f5650a4f3c9f2aaef73399c435ef8ef950f33f58e08f47500",
+    "file_count": 99,
+    "algorithm": "sha256(sorted UTF-8 relative-path|file-sha256 records joined by LF; no trailing LF)"
+  },
+  "generated": "2026-08-25",
+  "destinations": [
+    {
+      "site_id": "site-activity-bank",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Top-level bank of 30 Applied Learning Activities",
+      "module_id": "m01",
+      "scope": "course-wide"
+    },
+    {
+      "site_id": "site-activity-bank-act-01-handwashing-sequence",
+      "route": "activities.html",
+      "anchor": "act-01-handwashing-sequence",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Build the handwashing routine",
+      "module_id": "m01",
+      "section_id": "m01-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-02-hazard-control-match",
+      "route": "activities.html",
+      "anchor": "act-02-hazard-control-match",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Match each hazard to an immediate response",
+      "module_id": "m01",
+      "section_id": "m01-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-03-clean-sanitise-sort",
+      "route": "activities.html",
+      "anchor": "act-03-clean-sanitise-sort",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Clean, sanitise or store?",
+      "module_id": "m01",
+      "section_id": "m01-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-04-recipe-anatomy-label",
+      "route": "activities.html",
+      "anchor": "act-04-recipe-anatomy-label",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Label the parts of a recipe",
+      "module_id": "m02",
+      "section_id": "m02-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-05-equipment-choice",
+      "route": "activities.html",
+      "anchor": "act-05-equipment-choice",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Choose equipment for the job",
+      "module_id": "m02",
+      "section_id": "m02-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-06-conversion-retrieval",
+      "route": "activities.html",
+      "anchor": "act-06-conversion-retrieval",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Metric conversion quick check",
+      "module_id": "m02",
+      "section_id": "m02-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-07-contamination-pathway",
+      "route": "activities.html",
+      "anchor": "act-07-contamination-pathway",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Trace the contamination pathway",
+      "module_id": "m03",
+      "section_id": "m03-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-08-temperature-storage-decisions",
+      "route": "activities.html",
+      "anchor": "act-08-temperature-storage-decisions",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Cold storage decisions",
+      "module_id": "m03",
+      "section_id": "m03-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-09-allergen-communication",
+      "route": "activities.html",
+      "anchor": "act-09-allergen-communication",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Allergen-safe communication",
+      "module_id": "m03",
+      "section_id": "m03-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-10-nutrient-function-match",
+      "route": "activities.html",
+      "anchor": "act-10-nutrient-function-match",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Match nutrients and key roles",
+      "module_id": "m04",
+      "section_id": "m04-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-11-food-group-menu-sort",
+      "route": "activities.html",
+      "anchor": "act-11-food-group-menu-sort",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Sort foods by Australian Guide group",
+      "module_id": "m04",
+      "section_id": "m04-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-12-media-claim-check",
+      "route": "activities.html",
+      "anchor": "act-12-media-claim-check",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Claim, evidence or opinion?",
+      "module_id": "m04",
+      "section_id": "m04-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-13-reasons-for-cooking",
+      "route": "activities.html",
+      "anchor": "act-13-reasons-for-cooking",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Reason for cooking matcher",
+      "module_id": "m05",
+      "section_id": "m05-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-14-food-science-classify",
+      "route": "activities.html",
+      "anchor": "act-14-food-science-classify",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Name the food-science change",
+      "module_id": "m05",
+      "section_id": "m05-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-15-fair-test-sequence",
+      "route": "activities.html",
+      "anchor": "act-15-fair-test-sequence",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Plan a fair ingredient test",
+      "module_id": "m05",
+      "section_id": "m05-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-16-five-senses-label",
+      "route": "activities.html",
+      "anchor": "act-16-five-senses-label",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Which sense gives the evidence?",
+      "module_id": "m06",
+      "section_id": "m06-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-17-descriptor-sort",
+      "route": "activities.html",
+      "anchor": "act-17-descriptor-sort",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Replace vague sensory words",
+      "module_id": "m06",
+      "section_id": "m06-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-18-sensory-improvement",
+      "route": "activities.html",
+      "anchor": "act-18-sensory-improvement",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Evidence to improvement",
+      "module_id": "m06",
+      "section_id": "m06-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-19-farm-to-plate-sequence",
+      "route": "activities.html",
+      "anchor": "act-19-farm-to-plate-sequence",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Build a farm-to-plate chain",
+      "module_id": "m07",
+      "section_id": "m07-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-20-production-role-match",
+      "route": "activities.html",
+      "anchor": "act-20-production-role-match",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Who contributes to the food system?",
+      "module_id": "m07",
+      "section_id": "m07-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-21-sustainability-decisions",
+      "route": "activities.html",
+      "anchor": "act-21-sustainability-decisions",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Reduce avoidable food waste",
+      "module_id": "m07",
+      "section_id": "m07-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-22-user-constraint-sort",
+      "route": "activities.html",
+      "anchor": "act-22-user-constraint-sort",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Need, constraint or preference?",
+      "module_id": "m08",
+      "section_id": "m08-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-23-costing-check",
+      "route": "activities.html",
+      "anchor": "act-23-costing-check",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Costing method check",
+      "module_id": "m08",
+      "section_id": "m08-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-24-criteria-quality-check",
+      "route": "activities.html",
+      "anchor": "act-24-criteria-quality-check",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Turn vague wishes into testable criteria",
+      "module_id": "m08",
+      "section_id": "m08-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-25-recipe-equipment-plan",
+      "route": "activities.html",
+      "anchor": "act-25-recipe-equipment-plan",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Plan before you collect",
+      "module_id": "m09",
+      "section_id": "m09-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-26-workflow-sequence",
+      "route": "activities.html",
+      "anchor": "act-26-workflow-sequence",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Build a usable workflow",
+      "module_id": "m09",
+      "section_id": "m09-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-27-photo-evidence-choice",
+      "route": "activities.html",
+      "anchor": "act-27-photo-evidence-choice",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Choose purposeful photo evidence",
+      "module_id": "m09",
+      "section_id": "m09-s03"
+    },
+    {
+      "site_id": "site-activity-bank-act-28-criteria-test-match",
+      "route": "activities.html",
+      "anchor": "act-28-criteria-test-match",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Match a criterion with evidence",
+      "module_id": "m10",
+      "section_id": "m10-s01"
+    },
+    {
+      "site_id": "site-activity-bank-act-29-source-record-sequence",
+      "route": "activities.html",
+      "anchor": "act-29-source-record-sequence",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Build a usable source record",
+      "module_id": "m10",
+      "section_id": "m10-s02"
+    },
+    {
+      "site_id": "site-activity-bank-act-30-reflection-improvement",
+      "route": "activities.html",
+      "anchor": "act-30-reflection-improvement",
+      "audience": "student",
+      "purpose": "Top-level activity-bank copy: Make reflection evidence-based",
+      "module_id": "m10",
+      "section_id": "m10-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m01-s01",
+      "route": "modules/module-01.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-01-handwashing-sequence",
+      "module_id": "m01",
+      "section_id": "m01-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m01-s02",
+      "route": "modules/module-01.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-02-hazard-control-match",
+      "module_id": "m01",
+      "section_id": "m01-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m01-s03",
+      "route": "modules/module-01.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-03-clean-sanitise-sort",
+      "module_id": "m01",
+      "section_id": "m01-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m02-s01",
+      "route": "modules/module-02.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-04-recipe-anatomy-label",
+      "module_id": "m02",
+      "section_id": "m02-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m02-s02",
+      "route": "modules/module-02.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-05-equipment-choice",
+      "module_id": "m02",
+      "section_id": "m02-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m02-s03",
+      "route": "modules/module-02.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-06-conversion-retrieval",
+      "module_id": "m02",
+      "section_id": "m02-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m03-s01",
+      "route": "modules/module-03.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-07-contamination-pathway",
+      "module_id": "m03",
+      "section_id": "m03-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m03-s02",
+      "route": "modules/module-03.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-08-temperature-storage-decisions",
+      "module_id": "m03",
+      "section_id": "m03-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m03-s03",
+      "route": "modules/module-03.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-09-allergen-communication",
+      "module_id": "m03",
+      "section_id": "m03-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m04-s01",
+      "route": "modules/module-04.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-10-nutrient-function-match",
+      "module_id": "m04",
+      "section_id": "m04-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m04-s02",
+      "route": "modules/module-04.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-11-food-group-menu-sort",
+      "module_id": "m04",
+      "section_id": "m04-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m04-s03",
+      "route": "modules/module-04.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-12-media-claim-check",
+      "module_id": "m04",
+      "section_id": "m04-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m05-s01",
+      "route": "modules/module-05.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-13-reasons-for-cooking",
+      "module_id": "m05",
+      "section_id": "m05-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m05-s02",
+      "route": "modules/module-05.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-14-food-science-classify",
+      "module_id": "m05",
+      "section_id": "m05-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m05-s03",
+      "route": "modules/module-05.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-15-fair-test-sequence",
+      "module_id": "m05",
+      "section_id": "m05-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m06-s01",
+      "route": "modules/module-06.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-16-five-senses-label",
+      "module_id": "m06",
+      "section_id": "m06-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m06-s02",
+      "route": "modules/module-06.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-17-descriptor-sort",
+      "module_id": "m06",
+      "section_id": "m06-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m06-s03",
+      "route": "modules/module-06.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-18-sensory-improvement",
+      "module_id": "m06",
+      "section_id": "m06-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m07-s01",
+      "route": "modules/module-07.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-19-farm-to-plate-sequence",
+      "module_id": "m07",
+      "section_id": "m07-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m07-s02",
+      "route": "modules/module-07.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-20-production-role-match",
+      "module_id": "m07",
+      "section_id": "m07-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m07-s03",
+      "route": "modules/module-07.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-21-sustainability-decisions",
+      "module_id": "m07",
+      "section_id": "m07-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m08-s01",
+      "route": "modules/module-08.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-22-user-constraint-sort",
+      "module_id": "m08",
+      "section_id": "m08-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m08-s02",
+      "route": "modules/module-08.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-23-costing-check",
+      "module_id": "m08",
+      "section_id": "m08-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m08-s03",
+      "route": "modules/module-08.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-24-criteria-quality-check",
+      "module_id": "m08",
+      "section_id": "m08-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m09-s01",
+      "route": "modules/module-09.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-25-recipe-equipment-plan",
+      "module_id": "m09",
+      "section_id": "m09-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m09-s02",
+      "route": "modules/module-09.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-26-workflow-sequence",
+      "module_id": "m09",
+      "section_id": "m09-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m09-s03",
+      "route": "modules/module-09.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-27-photo-evidence-choice",
+      "module_id": "m09",
+      "section_id": "m09-s03"
+    },
+    {
+      "site_id": "site-activity-embedded-m10-s01",
+      "route": "modules/module-10.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-28-criteria-test-match",
+      "module_id": "m10",
+      "section_id": "m10-s01"
+    },
+    {
+      "site_id": "site-activity-embedded-m10-s02",
+      "route": "modules/module-10.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-29-source-record-sequence",
+      "module_id": "m10",
+      "section_id": "m10-s02"
+    },
+    {
+      "site_id": "site-activity-embedded-m10-s03",
+      "route": "modules/module-10.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Embedded Applied Learning Activity act-30-reflection-improvement",
+      "module_id": "m10",
+      "section_id": "m10-s03"
+    },
+    {
+      "site_id": "site-assessment-notification",
+      "route": "assessment-notification.html",
+      "audience": "student",
+      "purpose": "Controlled Party Task draft support; not an issued notification",
+      "module_id": "m08",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-assessment-schedule",
+      "route": "assessment.html",
+      "audience": "student",
+      "purpose": "Confirmed 2026 handbook schedule and assessment boundary",
+      "module_id": "m08",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-check-m01-s01",
+      "route": "modules/module-01.html",
+      "anchor": "kc-m01-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m01",
+      "section_id": "m01-s01"
+    },
+    {
+      "site_id": "site-check-m01-s02",
+      "route": "modules/module-01.html",
+      "anchor": "kc-m01-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m01",
+      "section_id": "m01-s02"
+    },
+    {
+      "site_id": "site-check-m01-s03",
+      "route": "modules/module-01.html",
+      "anchor": "kc-m01-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m01",
+      "section_id": "m01-s03"
+    },
+    {
+      "site_id": "site-check-m02-s01",
+      "route": "modules/module-02.html",
+      "anchor": "kc-m02-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m02",
+      "section_id": "m02-s01"
+    },
+    {
+      "site_id": "site-check-m02-s02",
+      "route": "modules/module-02.html",
+      "anchor": "kc-m02-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m02",
+      "section_id": "m02-s02"
+    },
+    {
+      "site_id": "site-check-m02-s03",
+      "route": "modules/module-02.html",
+      "anchor": "kc-m02-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m02",
+      "section_id": "m02-s03"
+    },
+    {
+      "site_id": "site-check-m03-s01",
+      "route": "modules/module-03.html",
+      "anchor": "kc-m03-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m03",
+      "section_id": "m03-s01"
+    },
+    {
+      "site_id": "site-check-m03-s02",
+      "route": "modules/module-03.html",
+      "anchor": "kc-m03-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m03",
+      "section_id": "m03-s02"
+    },
+    {
+      "site_id": "site-check-m03-s03",
+      "route": "modules/module-03.html",
+      "anchor": "kc-m03-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m03",
+      "section_id": "m03-s03"
+    },
+    {
+      "site_id": "site-check-m04-s01",
+      "route": "modules/module-04.html",
+      "anchor": "kc-m04-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m04",
+      "section_id": "m04-s01"
+    },
+    {
+      "site_id": "site-check-m04-s02",
+      "route": "modules/module-04.html",
+      "anchor": "kc-m04-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m04",
+      "section_id": "m04-s02"
+    },
+    {
+      "site_id": "site-check-m04-s03",
+      "route": "modules/module-04.html",
+      "anchor": "kc-m04-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m04",
+      "section_id": "m04-s03"
+    },
+    {
+      "site_id": "site-check-m05-s01",
+      "route": "modules/module-05.html",
+      "anchor": "kc-m05-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m05",
+      "section_id": "m05-s01"
+    },
+    {
+      "site_id": "site-check-m05-s02",
+      "route": "modules/module-05.html",
+      "anchor": "kc-m05-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m05",
+      "section_id": "m05-s02"
+    },
+    {
+      "site_id": "site-check-m05-s03",
+      "route": "modules/module-05.html",
+      "anchor": "kc-m05-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m05",
+      "section_id": "m05-s03"
+    },
+    {
+      "site_id": "site-check-m06-s01",
+      "route": "modules/module-06.html",
+      "anchor": "kc-m06-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m06",
+      "section_id": "m06-s01"
+    },
+    {
+      "site_id": "site-check-m06-s02",
+      "route": "modules/module-06.html",
+      "anchor": "kc-m06-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m06",
+      "section_id": "m06-s02"
+    },
+    {
+      "site_id": "site-check-m06-s03",
+      "route": "modules/module-06.html",
+      "anchor": "kc-m06-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m06",
+      "section_id": "m06-s03"
+    },
+    {
+      "site_id": "site-check-m07-s01",
+      "route": "modules/module-07.html",
+      "anchor": "kc-m07-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m07",
+      "section_id": "m07-s01"
+    },
+    {
+      "site_id": "site-check-m07-s02",
+      "route": "modules/module-07.html",
+      "anchor": "kc-m07-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m07",
+      "section_id": "m07-s02"
+    },
+    {
+      "site_id": "site-check-m07-s03",
+      "route": "modules/module-07.html",
+      "anchor": "kc-m07-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m07",
+      "section_id": "m07-s03"
+    },
+    {
+      "site_id": "site-check-m08-s01",
+      "route": "modules/module-08.html",
+      "anchor": "kc-m08-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m08",
+      "section_id": "m08-s01"
+    },
+    {
+      "site_id": "site-check-m08-s02",
+      "route": "modules/module-08.html",
+      "anchor": "kc-m08-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m08",
+      "section_id": "m08-s02"
+    },
+    {
+      "site_id": "site-check-m08-s03",
+      "route": "modules/module-08.html",
+      "anchor": "kc-m08-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m08",
+      "section_id": "m08-s03"
+    },
+    {
+      "site_id": "site-check-m09-s01",
+      "route": "modules/module-09.html",
+      "anchor": "kc-m09-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m09",
+      "section_id": "m09-s01"
+    },
+    {
+      "site_id": "site-check-m09-s02",
+      "route": "modules/module-09.html",
+      "anchor": "kc-m09-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m09",
+      "section_id": "m09-s02"
+    },
+    {
+      "site_id": "site-check-m09-s03",
+      "route": "modules/module-09.html",
+      "anchor": "kc-m09-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m09",
+      "section_id": "m09-s03"
+    },
+    {
+      "site_id": "site-check-m10-s01",
+      "route": "modules/module-10.html",
+      "anchor": "kc-m10-s01-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m10",
+      "section_id": "m10-s01"
+    },
+    {
+      "site_id": "site-check-m10-s02",
+      "route": "modules/module-10.html",
+      "anchor": "kc-m10-s02-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m10",
+      "section_id": "m10-s02"
+    },
+    {
+      "site_id": "site-check-m10-s03",
+      "route": "modules/module-10.html",
+      "anchor": "kc-m10-s03-title",
+      "audience": "student",
+      "purpose": "Ten-question feedback-rich formative knowledge check",
+      "module_id": "m10",
+      "section_id": "m10-s03"
+    },
+    {
+      "site_id": "site-evidence-m01-s01",
+      "route": "modules/module-01.html",
+      "anchor": "capstone-m01-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m01",
+      "section_id": "m01-s01"
+    },
+    {
+      "site_id": "site-evidence-m01-s02",
+      "route": "modules/module-01.html",
+      "anchor": "capstone-m01-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m01",
+      "section_id": "m01-s02"
+    },
+    {
+      "site_id": "site-evidence-m01-s03",
+      "route": "modules/module-01.html",
+      "anchor": "capstone-m01-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m01",
+      "section_id": "m01-s03"
+    },
+    {
+      "site_id": "site-evidence-m02-s01",
+      "route": "modules/module-02.html",
+      "anchor": "capstone-m02-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m02",
+      "section_id": "m02-s01"
+    },
+    {
+      "site_id": "site-evidence-m02-s02",
+      "route": "modules/module-02.html",
+      "anchor": "capstone-m02-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m02",
+      "section_id": "m02-s02"
+    },
+    {
+      "site_id": "site-evidence-m02-s03",
+      "route": "modules/module-02.html",
+      "anchor": "capstone-m02-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m02",
+      "section_id": "m02-s03"
+    },
+    {
+      "site_id": "site-evidence-m03-s01",
+      "route": "modules/module-03.html",
+      "anchor": "capstone-m03-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m03",
+      "section_id": "m03-s01"
+    },
+    {
+      "site_id": "site-evidence-m03-s02",
+      "route": "modules/module-03.html",
+      "anchor": "capstone-m03-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m03",
+      "section_id": "m03-s02"
+    },
+    {
+      "site_id": "site-evidence-m03-s03",
+      "route": "modules/module-03.html",
+      "anchor": "capstone-m03-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m03",
+      "section_id": "m03-s03"
+    },
+    {
+      "site_id": "site-evidence-m04-s01",
+      "route": "modules/module-04.html",
+      "anchor": "capstone-m04-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m04",
+      "section_id": "m04-s01"
+    },
+    {
+      "site_id": "site-evidence-m04-s02",
+      "route": "modules/module-04.html",
+      "anchor": "capstone-m04-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m04",
+      "section_id": "m04-s02"
+    },
+    {
+      "site_id": "site-evidence-m04-s03",
+      "route": "modules/module-04.html",
+      "anchor": "capstone-m04-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m04",
+      "section_id": "m04-s03"
+    },
+    {
+      "site_id": "site-evidence-m05-s01",
+      "route": "modules/module-05.html",
+      "anchor": "capstone-m05-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m05",
+      "section_id": "m05-s01"
+    },
+    {
+      "site_id": "site-evidence-m05-s02",
+      "route": "modules/module-05.html",
+      "anchor": "capstone-m05-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m05",
+      "section_id": "m05-s02"
+    },
+    {
+      "site_id": "site-evidence-m05-s03",
+      "route": "modules/module-05.html",
+      "anchor": "capstone-m05-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m05",
+      "section_id": "m05-s03"
+    },
+    {
+      "site_id": "site-evidence-m06-s01",
+      "route": "modules/module-06.html",
+      "anchor": "capstone-m06-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m06",
+      "section_id": "m06-s01"
+    },
+    {
+      "site_id": "site-evidence-m06-s02",
+      "route": "modules/module-06.html",
+      "anchor": "capstone-m06-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m06",
+      "section_id": "m06-s02"
+    },
+    {
+      "site_id": "site-evidence-m06-s03",
+      "route": "modules/module-06.html",
+      "anchor": "capstone-m06-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m06",
+      "section_id": "m06-s03"
+    },
+    {
+      "site_id": "site-evidence-m07-s01",
+      "route": "modules/module-07.html",
+      "anchor": "capstone-m07-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m07",
+      "section_id": "m07-s01"
+    },
+    {
+      "site_id": "site-evidence-m07-s02",
+      "route": "modules/module-07.html",
+      "anchor": "capstone-m07-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m07",
+      "section_id": "m07-s02"
+    },
+    {
+      "site_id": "site-evidence-m07-s03",
+      "route": "modules/module-07.html",
+      "anchor": "capstone-m07-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m07",
+      "section_id": "m07-s03"
+    },
+    {
+      "site_id": "site-evidence-m08-s01",
+      "route": "modules/module-08.html",
+      "anchor": "capstone-m08-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m08",
+      "section_id": "m08-s01"
+    },
+    {
+      "site_id": "site-evidence-m08-s02",
+      "route": "modules/module-08.html",
+      "anchor": "capstone-m08-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m08",
+      "section_id": "m08-s02"
+    },
+    {
+      "site_id": "site-evidence-m08-s03",
+      "route": "modules/module-08.html",
+      "anchor": "capstone-m08-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m08",
+      "section_id": "m08-s03"
+    },
+    {
+      "site_id": "site-evidence-m09-s01",
+      "route": "modules/module-09.html",
+      "anchor": "capstone-m09-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m09",
+      "section_id": "m09-s01"
+    },
+    {
+      "site_id": "site-evidence-m09-s02",
+      "route": "modules/module-09.html",
+      "anchor": "capstone-m09-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m09",
+      "section_id": "m09-s02"
+    },
+    {
+      "site_id": "site-evidence-m09-s03",
+      "route": "modules/module-09.html",
+      "anchor": "capstone-m09-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m09",
+      "section_id": "m09-s03"
+    },
+    {
+      "site_id": "site-evidence-m10-s01",
+      "route": "modules/module-10.html",
+      "anchor": "capstone-m10-s01-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m10",
+      "section_id": "m10-s01"
+    },
+    {
+      "site_id": "site-evidence-m10-s02",
+      "route": "modules/module-10.html",
+      "anchor": "capstone-m10-s02-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m10",
+      "section_id": "m10-s02"
+    },
+    {
+      "site_id": "site-evidence-m10-s03",
+      "route": "modules/module-10.html",
+      "anchor": "capstone-m10-s03-title",
+      "audience": "student",
+      "purpose": "Saved Read-Select-Explain-Check capstone evidence",
+      "module_id": "m10",
+      "section_id": "m10-s03"
+    },
+    {
+      "site_id": "site-folio",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Eight-stage browser-local Party Task working folio",
+      "module_id": "m08",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-folio-stage-01-brief",
+      "route": "folio.html",
+      "anchor": "stage-01-brief",
+      "audience": "student",
+      "purpose": "Party Task folio stage 1: Understand the need and brief",
+      "module_id": "m08",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-folio-stage-02-criteria",
+      "route": "folio.html",
+      "anchor": "stage-02-criteria",
+      "audience": "student",
+      "purpose": "Party Task folio stage 2: Draft success criteria",
+      "module_id": "m08",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-folio-stage-03-research-ideas",
+      "route": "folio.html",
+      "anchor": "stage-03-research-ideas",
+      "audience": "student",
+      "purpose": "Party Task folio stage 3: Research and compare ideas",
+      "module_id": "m08",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-folio-stage-04-chosen-plan",
+      "route": "folio.html",
+      "anchor": "stage-04-chosen-plan",
+      "audience": "student",
+      "purpose": "Party Task folio stage 4: Choose and plan the solution",
+      "module_id": "m08",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-folio-stage-05-safe-readiness",
+      "route": "folio.html",
+      "anchor": "stage-05-safe-readiness",
+      "audience": "student",
+      "purpose": "Party Task folio stage 5: Show safe-making readiness",
+      "module_id": "m01",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-folio-stage-06-production",
+      "route": "folio.html",
+      "anchor": "stage-06-production",
+      "audience": "student",
+      "purpose": "Party Task folio stage 6: Record production checkpoints",
+      "module_id": "m09",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-folio-stage-07-testing",
+      "route": "folio.html",
+      "anchor": "stage-07-testing",
+      "audience": "student",
+      "purpose": "Party Task folio stage 7: Test the result",
+      "module_id": "m06",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-folio-stage-08-evaluation",
+      "route": "folio.html",
+      "anchor": "stage-08-evaluation",
+      "audience": "student",
+      "purpose": "Party Task folio stage 8: Evaluate and communicate",
+      "module_id": "m10",
+      "scope": "course-wide-project"
+    },
+    {
+      "site_id": "site-home",
+      "route": "index.html",
+      "audience": "student",
+      "purpose": "Course map and ten-module sequence",
+      "module_id": "m01",
+      "scope": "course-wide"
+    },
+    {
+      "site_id": "site-module-m01",
+      "route": "modules/module-01.html",
+      "audience": "student",
+      "purpose": "Complete Module 01 learning page",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "site-module-m02",
+      "route": "modules/module-02.html",
+      "audience": "student",
+      "purpose": "Complete Module 02 learning page",
+      "module_id": "m02"
+    },
+    {
+      "site_id": "site-module-m03",
+      "route": "modules/module-03.html",
+      "audience": "student",
+      "purpose": "Complete Module 03 learning page",
+      "module_id": "m03"
+    },
+    {
+      "site_id": "site-module-m04",
+      "route": "modules/module-04.html",
+      "audience": "student",
+      "purpose": "Complete Module 04 learning page",
+      "module_id": "m04"
+    },
+    {
+      "site_id": "site-module-m05",
+      "route": "modules/module-05.html",
+      "audience": "student",
+      "purpose": "Complete Module 05 learning page",
+      "module_id": "m05"
+    },
+    {
+      "site_id": "site-module-m06",
+      "route": "modules/module-06.html",
+      "audience": "student",
+      "purpose": "Complete Module 06 learning page",
+      "module_id": "m06"
+    },
+    {
+      "site_id": "site-module-m07",
+      "route": "modules/module-07.html",
+      "audience": "student",
+      "purpose": "Complete Module 07 learning page",
+      "module_id": "m07"
+    },
+    {
+      "site_id": "site-module-m08",
+      "route": "modules/module-08.html",
+      "audience": "student",
+      "purpose": "Complete Module 08 learning page",
+      "module_id": "m08"
+    },
+    {
+      "site_id": "site-module-m09",
+      "route": "modules/module-09.html",
+      "audience": "student",
+      "purpose": "Complete Module 09 learning page",
+      "module_id": "m09"
+    },
+    {
+      "site_id": "site-module-m10",
+      "route": "modules/module-10.html",
+      "audience": "student",
+      "purpose": "Complete Module 10 learning page",
+      "module_id": "m10"
+    },
+    {
+      "site_id": "site-presentation-m01",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-01-kitchen-ready.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Kitchen Ready",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "site-presentation-m02",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-02-recipes-equipment-and-measurement.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Recipes, Equipment and Measurement",
+      "module_id": "m02"
+    },
+    {
+      "site_id": "site-presentation-m03",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-03-food-safety-in-action.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Food Safety in Action",
+      "module_id": "m03"
+    },
+    {
+      "site_id": "site-presentation-m04",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-04-nutrients-and-food-choices.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Nutrients and Food Choices",
+      "module_id": "m04"
+    },
+    {
+      "site_id": "site-presentation-m05",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-05-food-science.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Food Science",
+      "module_id": "m05"
+    },
+    {
+      "site_id": "site-presentation-m06",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-06-sensory-evaluation-and-quality.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Sensory Evaluation and Quality",
+      "module_id": "m06"
+    },
+    {
+      "site_id": "site-presentation-m07",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-07-food-systems-and-sustainability.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Food Systems and Sustainability",
+      "module_id": "m07"
+    },
+    {
+      "site_id": "site-presentation-m08",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-08-design-a-party-menu.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Design a Party Menu",
+      "module_id": "m08"
+    },
+    {
+      "site_id": "site-presentation-m09",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-09-plan-produce-and-present.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Plan, Produce and Present",
+      "module_id": "m09"
+    },
+    {
+      "site_id": "site-presentation-m10",
+      "route": "resources/presentations/Year-8-Food-Technology-Module-10-evaluate-and-communicate.pptx",
+      "audience": "teacher",
+      "purpose": "Editable eight-slide teaching presentation for Evaluate and Communicate",
+      "module_id": "m10"
+    },
+    {
+      "site_id": "site-sources",
+      "route": "sources.html",
+      "audience": "student-teacher",
+      "purpose": "Public-safe source, exclusion and Teacher to confirm record",
+      "module_id": "m01",
+      "scope": "course-wide"
+    },
+    {
+      "site_id": "site-teacher-resources",
+      "route": "teacher-resources.html",
+      "audience": "teacher",
+      "purpose": "Editable program and presentations with confirmation register",
+      "module_id": "m10",
+      "scope": "course-wide"
+    },
+    {
+      "site_id": "site-theory-m01-s01",
+      "route": "modules/module-01.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: Personal hygiene and handwashing",
+      "module_id": "m01",
+      "section_id": "m01-s01"
+    },
+    {
+      "site_id": "site-theory-m01-s02",
+      "route": "modules/module-01.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Kitchen hazards and safe routines",
+      "module_id": "m01",
+      "section_id": "m01-s02"
+    },
+    {
+      "site_id": "site-theory-m01-s03",
+      "route": "modules/module-01.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Washing up, cleaning and sanitising",
+      "module_id": "m01",
+      "section_id": "m01-s03"
+    },
+    {
+      "site_id": "site-theory-m02-s01",
+      "route": "modules/module-02.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: Reading recipes and cooking terms",
+      "module_id": "m02",
+      "section_id": "m02-s01"
+    },
+    {
+      "site_id": "site-theory-m02-s02",
+      "route": "modules/module-02.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Selecting equipment and techniques",
+      "module_id": "m02",
+      "section_id": "m02-s02"
+    },
+    {
+      "site_id": "site-theory-m02-s03",
+      "route": "modules/module-02.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Measuring, converting and scaling",
+      "module_id": "m02",
+      "section_id": "m02-s03"
+    },
+    {
+      "site_id": "site-theory-m03-s01",
+      "route": "modules/module-03.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: Cross-contamination pathways",
+      "module_id": "m03",
+      "section_id": "m03-s01"
+    },
+    {
+      "site_id": "site-theory-m03-s02",
+      "route": "modules/module-03.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Temperature control and storage",
+      "module_id": "m03",
+      "section_id": "m03-s02"
+    },
+    {
+      "site_id": "site-theory-m03-s03",
+      "route": "modules/module-03.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Allergens and safe food choices",
+      "module_id": "m03",
+      "section_id": "m03-s03"
+    },
+    {
+      "site_id": "site-theory-m04-s01",
+      "route": "modules/module-04.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: Six essential nutrients",
+      "module_id": "m04",
+      "section_id": "m04-s01"
+    },
+    {
+      "site_id": "site-theory-m04-s02",
+      "route": "modules/module-04.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Food groups and balanced choices",
+      "module_id": "m04",
+      "section_id": "m04-s02"
+    },
+    {
+      "site_id": "site-theory-m04-s03",
+      "route": "modules/module-04.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Added sugar and informed media choices",
+      "module_id": "m04",
+      "section_id": "m04-s03"
+    },
+    {
+      "site_id": "site-theory-m05-s01",
+      "route": "modules/module-05.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: Reasons for cooking",
+      "module_id": "m05",
+      "section_id": "m05-s01"
+    },
+    {
+      "site_id": "site-theory-m05-s02",
+      "route": "modules/module-05.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Denaturation, dextrinisation and emulsification",
+      "module_id": "m05",
+      "section_id": "m05-s02"
+    },
+    {
+      "site_id": "site-theory-m05-s03",
+      "route": "modules/module-05.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Fair ingredient tests and observations",
+      "module_id": "m05",
+      "section_id": "m05-s03"
+    },
+    {
+      "site_id": "site-theory-m06-s01",
+      "route": "modules/module-06.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: The five senses",
+      "module_id": "m06",
+      "section_id": "m06-s01"
+    },
+    {
+      "site_id": "site-theory-m06-s02",
+      "route": "modules/module-06.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Precise sensory language and fair comparisons",
+      "module_id": "m06",
+      "section_id": "m06-s02"
+    },
+    {
+      "site_id": "site-theory-m06-s03",
+      "route": "modules/module-06.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Using evidence to improve food",
+      "module_id": "m06",
+      "section_id": "m06-s03"
+    },
+    {
+      "site_id": "site-theory-m07-s01",
+      "route": "modules/module-07.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: Farm-to-plate systems",
+      "module_id": "m07",
+      "section_id": "m07-s01"
+    },
+    {
+      "site_id": "site-theory-m07-s02",
+      "route": "modules/module-07.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Australian food and fibre production",
+      "module_id": "m07",
+      "section_id": "m07-s02"
+    },
+    {
+      "site_id": "site-theory-m07-s03",
+      "route": "modules/module-07.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Waste, food security and sustainable choices",
+      "module_id": "m07",
+      "section_id": "m07-s03"
+    },
+    {
+      "site_id": "site-theory-m08-s01",
+      "route": "modules/module-08.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: User needs and constraints",
+      "module_id": "m08",
+      "section_id": "m08-s01"
+    },
+    {
+      "site_id": "site-theory-m08-s02",
+      "route": "modules/module-08.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Menu balance and costing",
+      "module_id": "m08",
+      "section_id": "m08-s02"
+    },
+    {
+      "site_id": "site-theory-m08-s03",
+      "route": "modules/module-08.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Ideas, criteria and responsible choices",
+      "module_id": "m08",
+      "section_id": "m08-s03"
+    },
+    {
+      "site_id": "site-theory-m09-s01",
+      "route": "modules/module-09.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: Recipe and equipment selection",
+      "module_id": "m09",
+      "section_id": "m09-s01"
+    },
+    {
+      "site_id": "site-theory-m09-s02",
+      "route": "modules/module-09.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Workflow and collaboration",
+      "module_id": "m09",
+      "section_id": "m09-s02"
+    },
+    {
+      "site_id": "site-theory-m09-s03",
+      "route": "modules/module-09.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Presentation, styling and photography",
+      "module_id": "m09",
+      "section_id": "m09-s03"
+    },
+    {
+      "site_id": "site-theory-m10-s01",
+      "route": "modules/module-10.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Named theory section: Testing against criteria",
+      "module_id": "m10",
+      "section_id": "m10-s01"
+    },
+    {
+      "site_id": "site-theory-m10-s02",
+      "route": "modules/module-10.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Named theory section: Evidence, sources and bibliography",
+      "module_id": "m10",
+      "section_id": "m10-s02"
+    },
+    {
+      "site_id": "site-theory-m10-s03",
+      "route": "modules/module-10.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Named theory section: Reflection, improvement and communication",
+      "module_id": "m10",
+      "section_id": "m10-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m01-s01",
+      "route": "modules/module-01.html",
+      "anchor": "section-video-m01-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Four Golden Rules of food safety",
+      "module_id": "m01",
+      "section_id": "m01-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m01-s02",
+      "route": "modules/module-01.html",
+      "anchor": "section-video-m01-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Kitchen Safety: Focusing on Safety (1 of 7) | WorkSafeBC",
+      "module_id": "m01",
+      "section_id": "m01-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m01-s03",
+      "route": "modules/module-01.html",
+      "anchor": "section-video-m01-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Food safety coaching (Part 6): Cleaning effectively",
+      "module_id": "m01",
+      "section_id": "m01-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m02-s01",
+      "route": "modules/module-02.html",
+      "anchor": "section-video-m02-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: How to (Actually) Follow a Recipe  | Techniquely with Lan Lam",
+      "module_id": "m02",
+      "section_id": "m02-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m02-s02",
+      "route": "modules/module-02.html",
+      "anchor": "section-video-m02-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Gordon Ramsay's Kitchen Kit | What You Need To Be A Better Chef",
+      "module_id": "m02",
+      "section_id": "m02-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m02-s03",
+      "route": "modules/module-02.html",
+      "anchor": "section-video-m02-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Cooking Techniques: Converting Recipe Yields",
+      "module_id": "m02",
+      "section_id": "m02-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m03-s01",
+      "route": "modules/module-03.html",
+      "anchor": "section-video-m03-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: How Does Cross-Contamination Happen?",
+      "module_id": "m03",
+      "section_id": "m03-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m03-s02",
+      "route": "modules/module-03.html",
+      "anchor": "section-video-m03-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: What is the food temperature danger zone?",
+      "module_id": "m03",
+      "section_id": "m03-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m03-s03",
+      "route": "modules/module-03.html",
+      "anchor": "section-video-m03-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Eating Safely with Food Allergies - Food Allergy Canada Teen Video Series",
+      "module_id": "m03",
+      "section_id": "m03-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m04-s01",
+      "route": "modules/module-04.html",
+      "anchor": "section-video-m04-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: The 6 essential nutrients.",
+      "module_id": "m04",
+      "section_id": "m04-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m04-s02",
+      "route": "modules/module-04.html",
+      "anchor": "section-video-m04-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Facts about the Australian Guide to Healthy Eating (AGHE) - Refresh.ED",
+      "module_id": "m04",
+      "section_id": "m04-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m04-s03",
+      "route": "modules/module-04.html",
+      "anchor": "section-video-m04-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Sugar: Hiding in plain sight - Robert Lustig",
+      "module_id": "m04",
+      "section_id": "m04-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m05-s01",
+      "route": "modules/module-05.html",
+      "anchor": "section-video-m05-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: WJEC GCSE Home Economics Food & Nutrition Topic 10 Cooking Food",
+      "module_id": "m05",
+      "section_id": "m05-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m05-s02",
+      "route": "modules/module-05.html",
+      "anchor": "section-video-m05-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: What is Protein Denaturation? - Food Science",
+      "module_id": "m05",
+      "section_id": "m05-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m05-s03",
+      "route": "modules/module-05.html",
+      "anchor": "section-video-m05-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Fair Tests",
+      "module_id": "m05",
+      "section_id": "m05-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m06-s01",
+      "route": "modules/module-06.html",
+      "anchor": "section-video-m06-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Episode 9: Eating With The 5 Senses",
+      "module_id": "m06",
+      "section_id": "m06-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m06-s02",
+      "route": "modules/module-06.html",
+      "anchor": "section-video-m06-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Organising a sensory evaluation",
+      "module_id": "m06",
+      "section_id": "m06-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m06-s03",
+      "route": "modules/module-06.html",
+      "anchor": "section-video-m06-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: What It's Like To Be Paid To Taste Food",
+      "module_id": "m06",
+      "section_id": "m06-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m07-s01",
+      "route": "modules/module-07.html",
+      "anchor": "section-video-m07-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Farms and Food for Kids | Learn how food comes from a farm to your table",
+      "module_id": "m07",
+      "section_id": "m07-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m07-s02",
+      "route": "modules/module-07.html",
+      "anchor": "section-video-m07-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Where Does Our Food Come From? - Behind the News",
+      "module_id": "m07",
+      "section_id": "m07-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m07-s03",
+      "route": "modules/module-07.html",
+      "anchor": "section-video-m07-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Food Waste Explained | Why Wasting Food is Wasting Everything | OzHarvest",
+      "module_id": "m07",
+      "section_id": "m07-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m08-s01",
+      "route": "modules/module-08.html",
+      "anchor": "section-video-m08-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Principles of Human-Centered Design (Don Norman)",
+      "module_id": "m08",
+      "section_id": "m08-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m08-s02",
+      "route": "modules/module-08.html",
+      "anchor": "section-video-m08-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Hacks for Healthy Eating on a Budget | The Cooking Doc®",
+      "module_id": "m08",
+      "section_id": "m08-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m08-s03",
+      "route": "modules/module-08.html",
+      "anchor": "section-video-m08-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Understanding Criteria and Constraints",
+      "module_id": "m08",
+      "section_id": "m08-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m09-s01",
+      "route": "modules/module-09.html",
+      "anchor": "section-video-m09-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Master the Art of Mise En Place: Organize Like a Pro",
+      "module_id": "m09",
+      "section_id": "m09-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m09-s02",
+      "route": "modules/module-09.html",
+      "anchor": "section-video-m09-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: How to Write a Time Plan || Food, Nutrition and Health || Eps 3",
+      "module_id": "m09",
+      "section_id": "m09-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m09-s03",
+      "route": "modules/module-09.html",
+      "anchor": "section-video-m09-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: 3 Food Photography Angles You MUST Know",
+      "module_id": "m09",
+      "section_id": "m09-s03"
+    },
+    {
+      "site_id": "site-video-embedded-m10-s01",
+      "route": "modules/module-10.html",
+      "anchor": "section-video-m10-s01",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: How to Evaluate Design Solutions",
+      "module_id": "m10",
+      "section_id": "m10-s01"
+    },
+    {
+      "site_id": "site-video-embedded-m10-s02",
+      "route": "modules/module-10.html",
+      "anchor": "section-video-m10-s02",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Citing Sources: Why & How to Do It",
+      "module_id": "m10",
+      "section_id": "m10-s02"
+    },
+    {
+      "site_id": "site-video-embedded-m10-s03",
+      "route": "modules/module-10.html",
+      "anchor": "section-video-m10-s03",
+      "audience": "student",
+      "purpose": "Section video pathway with equivalent non-video path: Reflecting on Learning in Design Thinking",
+      "module_id": "m10",
+      "section_id": "m10-s03"
+    },
+    {
+      "site_id": "site-video-library",
+      "route": "videos.html",
+      "audience": "student",
+      "purpose": "Top-level library of 30 section-matched video pathways",
+      "module_id": "m01",
+      "scope": "course-wide"
+    },
+    {
+      "site_id": "site-video-library-m01-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m01-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Four Golden Rules of food safety",
+      "module_id": "m01",
+      "section_id": "m01-s01"
+    },
+    {
+      "site_id": "site-video-library-m01-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m01-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Kitchen Safety: Focusing on Safety (1 of 7) | WorkSafeBC",
+      "module_id": "m01",
+      "section_id": "m01-s02"
+    },
+    {
+      "site_id": "site-video-library-m01-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m01-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Food safety coaching (Part 6): Cleaning effectively",
+      "module_id": "m01",
+      "section_id": "m01-s03"
+    },
+    {
+      "site_id": "site-video-library-m02-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m02-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: How to (Actually) Follow a Recipe  | Techniquely with Lan Lam",
+      "module_id": "m02",
+      "section_id": "m02-s01"
+    },
+    {
+      "site_id": "site-video-library-m02-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m02-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Gordon Ramsay's Kitchen Kit | What You Need To Be A Better Chef",
+      "module_id": "m02",
+      "section_id": "m02-s02"
+    },
+    {
+      "site_id": "site-video-library-m02-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m02-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Cooking Techniques: Converting Recipe Yields",
+      "module_id": "m02",
+      "section_id": "m02-s03"
+    },
+    {
+      "site_id": "site-video-library-m03-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m03-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: How Does Cross-Contamination Happen?",
+      "module_id": "m03",
+      "section_id": "m03-s01"
+    },
+    {
+      "site_id": "site-video-library-m03-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m03-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: What is the food temperature danger zone?",
+      "module_id": "m03",
+      "section_id": "m03-s02"
+    },
+    {
+      "site_id": "site-video-library-m03-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m03-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Eating Safely with Food Allergies - Food Allergy Canada Teen Video Series",
+      "module_id": "m03",
+      "section_id": "m03-s03"
+    },
+    {
+      "site_id": "site-video-library-m04-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m04-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: The 6 essential nutrients.",
+      "module_id": "m04",
+      "section_id": "m04-s01"
+    },
+    {
+      "site_id": "site-video-library-m04-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m04-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Facts about the Australian Guide to Healthy Eating (AGHE) - Refresh.ED",
+      "module_id": "m04",
+      "section_id": "m04-s02"
+    },
+    {
+      "site_id": "site-video-library-m04-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m04-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Sugar: Hiding in plain sight - Robert Lustig",
+      "module_id": "m04",
+      "section_id": "m04-s03"
+    },
+    {
+      "site_id": "site-video-library-m05-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m05-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: WJEC GCSE Home Economics Food & Nutrition Topic 10 Cooking Food",
+      "module_id": "m05",
+      "section_id": "m05-s01"
+    },
+    {
+      "site_id": "site-video-library-m05-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m05-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: What is Protein Denaturation? - Food Science",
+      "module_id": "m05",
+      "section_id": "m05-s02"
+    },
+    {
+      "site_id": "site-video-library-m05-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m05-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Fair Tests",
+      "module_id": "m05",
+      "section_id": "m05-s03"
+    },
+    {
+      "site_id": "site-video-library-m06-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m06-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Episode 9: Eating With The 5 Senses",
+      "module_id": "m06",
+      "section_id": "m06-s01"
+    },
+    {
+      "site_id": "site-video-library-m06-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m06-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Organising a sensory evaluation",
+      "module_id": "m06",
+      "section_id": "m06-s02"
+    },
+    {
+      "site_id": "site-video-library-m06-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m06-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: What It's Like To Be Paid To Taste Food",
+      "module_id": "m06",
+      "section_id": "m06-s03"
+    },
+    {
+      "site_id": "site-video-library-m07-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m07-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Farms and Food for Kids | Learn how food comes from a farm to your table",
+      "module_id": "m07",
+      "section_id": "m07-s01"
+    },
+    {
+      "site_id": "site-video-library-m07-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m07-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Where Does Our Food Come From? - Behind the News",
+      "module_id": "m07",
+      "section_id": "m07-s02"
+    },
+    {
+      "site_id": "site-video-library-m07-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m07-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Food Waste Explained | Why Wasting Food is Wasting Everything | OzHarvest",
+      "module_id": "m07",
+      "section_id": "m07-s03"
+    },
+    {
+      "site_id": "site-video-library-m08-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m08-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Principles of Human-Centered Design (Don Norman)",
+      "module_id": "m08",
+      "section_id": "m08-s01"
+    },
+    {
+      "site_id": "site-video-library-m08-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m08-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Hacks for Healthy Eating on a Budget | The Cooking Doc®",
+      "module_id": "m08",
+      "section_id": "m08-s02"
+    },
+    {
+      "site_id": "site-video-library-m08-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m08-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Understanding Criteria and Constraints",
+      "module_id": "m08",
+      "section_id": "m08-s03"
+    },
+    {
+      "site_id": "site-video-library-m09-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m09-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Master the Art of Mise En Place: Organize Like a Pro",
+      "module_id": "m09",
+      "section_id": "m09-s01"
+    },
+    {
+      "site_id": "site-video-library-m09-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m09-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: How to Write a Time Plan || Food, Nutrition and Health || Eps 3",
+      "module_id": "m09",
+      "section_id": "m09-s02"
+    },
+    {
+      "site_id": "site-video-library-m09-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m09-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: 3 Food Photography Angles You MUST Know",
+      "module_id": "m09",
+      "section_id": "m09-s03"
+    },
+    {
+      "site_id": "site-video-library-m10-s01",
+      "route": "videos.html",
+      "anchor": "library-video-m10-s01",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: How to Evaluate Design Solutions",
+      "module_id": "m10",
+      "section_id": "m10-s01"
+    },
+    {
+      "site_id": "site-video-library-m10-s02",
+      "route": "videos.html",
+      "anchor": "library-video-m10-s02",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Citing Sources: Why & How to Do It",
+      "module_id": "m10",
+      "section_id": "m10-s02"
+    },
+    {
+      "site_id": "site-video-library-m10-s03",
+      "route": "videos.html",
+      "anchor": "library-video-m10-s03",
+      "audience": "student",
+      "purpose": "Video-library copy with watch-for prompt: Reflecting on Learning in Design Thinking",
+      "module_id": "m10",
+      "section_id": "m10-s03"
+    },
+    {
+      "site_id": "site-visual-m01-s01",
+      "route": "modules/module-01.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Handwashing breaks the contamination pathway",
+      "module_id": "m01",
+      "section_id": "m01-s01"
+    },
+    {
+      "site_id": "site-visual-m01-s02",
+      "route": "modules/module-01.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Spot the hazard, then choose a control",
+      "module_id": "m01",
+      "section_id": "m01-s02"
+    },
+    {
+      "site_id": "site-visual-m01-s03",
+      "route": "modules/module-01.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Cleaning and sanitising do different jobs",
+      "module_id": "m01",
+      "section_id": "m01-s03"
+    },
+    {
+      "site_id": "site-visual-m02-s01",
+      "route": "modules/module-02.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: A recipe is a coordinated set of instructions",
+      "module_id": "m02",
+      "section_id": "m02-s01"
+    },
+    {
+      "site_id": "site-visual-m02-s02",
+      "route": "modules/module-02.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Choose equipment from the job it must do",
+      "module_id": "m02",
+      "section_id": "m02-s02"
+    },
+    {
+      "site_id": "site-visual-m02-s03",
+      "route": "modules/module-02.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Scale a recipe with one consistent factor",
+      "module_id": "m02",
+      "section_id": "m02-s03"
+    },
+    {
+      "site_id": "site-visual-m03-s01",
+      "route": "modules/module-03.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Cross-contamination needs a pathway",
+      "module_id": "m03",
+      "section_id": "m03-s01"
+    },
+    {
+      "site_id": "site-visual-m03-s02",
+      "route": "modules/module-03.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Control time when food is between 5°C and 60°C",
+      "module_id": "m03",
+      "section_id": "m03-s02"
+    },
+    {
+      "site_id": "site-visual-m03-s03",
+      "route": "modules/module-03.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Allergen safety depends on checking, not guessing",
+      "module_id": "m03",
+      "section_id": "m03-s03"
+    },
+    {
+      "site_id": "site-visual-m04-s01",
+      "route": "modules/module-04.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Nutrients have different jobs in the body",
+      "module_id": "m04",
+      "section_id": "m04-s01"
+    },
+    {
+      "site_id": "site-visual-m04-s02",
+      "route": "modules/module-04.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Five food groups organise sources, not moral scores",
+      "module_id": "m04",
+      "section_id": "m04-s02"
+    },
+    {
+      "site_id": "site-visual-m04-s03",
+      "route": "modules/module-04.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Check a food-media claim before accepting it",
+      "module_id": "m04",
+      "section_id": "m04-s03"
+    },
+    {
+      "site_id": "site-visual-m05-s01",
+      "route": "modules/module-05.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Cooking changes food for several purposes",
+      "module_id": "m05",
+      "section_id": "m05-s01"
+    },
+    {
+      "site_id": "site-visual-m05-s02",
+      "route": "modules/module-05.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Three functional changes can be observed",
+      "module_id": "m05",
+      "section_id": "m05-s02"
+    },
+    {
+      "site_id": "site-visual-m05-s03",
+      "route": "modules/module-05.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: A fair food test changes one planned variable",
+      "module_id": "m05",
+      "section_id": "m05-s03"
+    },
+    {
+      "site_id": "site-visual-m06-s01",
+      "route": "modules/module-06.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Sensory evidence draws on more than taste",
+      "module_id": "m06",
+      "section_id": "m06-s01"
+    },
+    {
+      "site_id": "site-visual-m06-s02",
+      "route": "modules/module-06.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Precise sensory language combines evidence",
+      "module_id": "m06",
+      "section_id": "m06-s02"
+    },
+    {
+      "site_id": "site-visual-m06-s03",
+      "route": "modules/module-06.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Sensory evidence can guide one controlled improvement",
+      "module_id": "m06",
+      "section_id": "m06-s03"
+    },
+    {
+      "site_id": "site-visual-m07-s01",
+      "route": "modules/module-07.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Food moves through a connected system",
+      "module_id": "m07",
+      "section_id": "m07-s01"
+    },
+    {
+      "site_id": "site-visual-m07-s02",
+      "route": "modules/module-07.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Australian food and fibre production depends on connected resources",
+      "module_id": "m07",
+      "section_id": "m07-s02"
+    },
+    {
+      "site_id": "site-visual-m07-s03",
+      "route": "modules/module-07.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Preventing food waste protects the most value",
+      "module_id": "m07",
+      "section_id": "m07-s03"
+    },
+    {
+      "site_id": "site-visual-m08-s01",
+      "route": "modules/module-08.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: A good menu responds to a real user and context",
+      "module_id": "m08",
+      "section_id": "m08-s01"
+    },
+    {
+      "site_id": "site-visual-m08-s02",
+      "route": "modules/module-08.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Compare menu ideas against the same questions",
+      "module_id": "m08",
+      "section_id": "m08-s02"
+    },
+    {
+      "site_id": "site-visual-m08-s03",
+      "route": "modules/module-08.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Turn the brief into testable criteria",
+      "module_id": "m08",
+      "section_id": "m08-s03"
+    },
+    {
+      "site_id": "site-visual-m09-s01",
+      "route": "modules/module-09.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Check the recipe and equipment as one system",
+      "module_id": "m09",
+      "section_id": "m09-s01"
+    },
+    {
+      "site_id": "site-visual-m09-s02",
+      "route": "modules/module-09.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: A workflow shows order, overlap and responsibility",
+      "module_id": "m09",
+      "section_id": "m09-s02"
+    },
+    {
+      "site_id": "site-visual-m09-s03",
+      "route": "modules/module-09.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Presentation evidence needs food, context and clarity",
+      "module_id": "m09",
+      "section_id": "m09-s03"
+    },
+    {
+      "site_id": "site-visual-m10-s01",
+      "route": "modules/module-10.html",
+      "anchor": "section-1",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Evaluate each criterion with evidence",
+      "module_id": "m10",
+      "section_id": "m10-s01"
+    },
+    {
+      "site_id": "site-visual-m10-s02",
+      "route": "modules/module-10.html",
+      "anchor": "section-2",
+      "audience": "student",
+      "purpose": "Section explanatory visual: A source trail lets another person recover your evidence",
+      "module_id": "m10",
+      "section_id": "m10-s02"
+    },
+    {
+      "site_id": "site-visual-m10-s03",
+      "route": "modules/module-10.html",
+      "anchor": "section-3",
+      "audience": "student",
+      "purpose": "Section explanatory visual: Reflection turns evidence into a next step",
+      "module_id": "m10",
+      "section_id": "m10-s03"
+    },
+    {
+      "site_id": "site-visual-p01-practical-ready",
+      "route": "activities.html",
+      "anchor": "p01-practical-ready-title",
+      "audience": "student",
+      "purpose": "Activity-bank process visual: Practical-ready check",
+      "module_id": "m01",
+      "asset": "assets/diagrams/p01-practical-ready.svg",
+      "visual_id": "p01-practical-ready"
+    },
+    {
+      "site_id": "site-visual-p02-mise-en-place",
+      "route": "activities.html",
+      "anchor": "p02-mise-en-place-title",
+      "audience": "student",
+      "purpose": "Activity-bank process visual: Mise en place gives every item a safe job",
+      "module_id": "m02",
+      "asset": "assets/diagrams/p02-mise-en-place.svg",
+      "visual_id": "p02-mise-en-place"
+    },
+    {
+      "site_id": "site-visual-p03-washing-station",
+      "route": "activities.html",
+      "anchor": "p03-washing-station-title",
+      "audience": "student",
+      "purpose": "Activity-bank process visual: Close the practical with an ordered clean-down",
+      "module_id": "m01",
+      "asset": "assets/diagrams/p03-washing-station.svg",
+      "visual_id": "p03-washing-station"
+    },
+    {
+      "site_id": "site-visual-p04-scaling-example",
+      "route": "activities.html",
+      "anchor": "p04-scaling-example-title",
+      "audience": "student",
+      "purpose": "Activity-bank process visual: Worked scaling example: 4 portions to 6",
+      "module_id": "m02",
+      "asset": "assets/diagrams/p04-scaling-example.svg",
+      "visual_id": "p04-scaling-example"
+    },
+    {
+      "site_id": "site-visual-p05-storage-shelves",
+      "route": "activities.html",
+      "anchor": "p05-storage-shelves-title",
+      "audience": "student",
+      "purpose": "Activity-bank process visual: Store food to prevent drips and unintended contact",
+      "module_id": "m03",
+      "asset": "assets/diagrams/p05-storage-shelves.svg",
+      "visual_id": "p05-storage-shelves"
+    },
+    {
+      "site_id": "site-visual-p06-sensory-protocol",
+      "route": "activities.html",
+      "anchor": "p06-sensory-protocol-title",
+      "audience": "student",
+      "purpose": "Activity-bank process visual: Run a fair sensory comparison",
+      "module_id": "m06",
+      "asset": "assets/diagrams/p06-sensory-protocol.svg",
+      "visual_id": "p06-sensory-protocol"
+    },
+    {
+      "site_id": "site-visual-p07-party-evidence",
+      "route": "assessment.html",
+      "anchor": "p07-party-evidence-assessment-title",
+      "audience": "student",
+      "purpose": "Assessment-orientation process visual: Party Task evidence grows across the project",
+      "module_id": "m08",
+      "asset": "assets/diagrams/p07-party-evidence.svg",
+      "visual_id": "p07-party-evidence"
+    },
+    {
+      "site_id": "site-visual-p08-costing-workflow",
+      "route": "assessment.html",
+      "anchor": "p08-costing-workflow-assessment-title",
+      "audience": "student",
+      "purpose": "Assessment-orientation process visual: Cost from quantities you will actually use",
+      "module_id": "m08",
+      "asset": "assets/diagrams/p08-costing-workflow.svg",
+      "visual_id": "p08-costing-workflow"
+    },
+    {
+      "site_id": "site-visual-p09-production-timeline",
+      "route": "folio.html",
+      "anchor": "p09-production-timeline-folio-title",
+      "audience": "student",
+      "purpose": "Folio process visual: Build a workflow backwards from service time",
+      "module_id": "m09",
+      "asset": "assets/diagrams/p09-production-timeline.svg",
+      "visual_id": "p09-production-timeline"
+    },
+    {
+      "site_id": "site-visual-p10-evidence-filter",
+      "route": "folio.html",
+      "anchor": "p10-evidence-filter-folio-title",
+      "audience": "student",
+      "purpose": "Folio process visual: Select folio evidence that proves something",
+      "module_id": "m10",
+      "asset": "assets/diagrams/p10-evidence-filter.svg",
+      "visual_id": "p10-evidence-filter"
+    },
+    {
+      "site_id": "site-visual-photo-m01",
+      "route": "modules/module-01.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: A safe, prepared school kitchen station",
+      "module_id": "m01",
+      "asset": "assets/photos/module-01-kitchen-ready.png",
+      "visual_id": "photo-m01"
+    },
+    {
+      "site_id": "site-visual-photo-m02",
+      "route": "modules/module-02.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Recipe measurement station",
+      "module_id": "m02",
+      "asset": "assets/photos/module-02-measurement-station-v2.png",
+      "visual_id": "photo-m02"
+    },
+    {
+      "site_id": "site-visual-photo-m03",
+      "route": "modules/module-03.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Safe refrigerated storage",
+      "module_id": "m03",
+      "asset": "assets/photos/module-03-safe-refrigeration.png",
+      "visual_id": "photo-m03"
+    },
+    {
+      "site_id": "site-visual-photo-m04",
+      "route": "modules/module-04.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Varied nutrient sources",
+      "module_id": "m04",
+      "asset": "assets/photos/module-04-balanced-food-variety.png",
+      "visual_id": "photo-m04"
+    },
+    {
+      "site_id": "site-visual-photo-m05",
+      "route": "modules/module-05.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Observable food science changes",
+      "module_id": "m05",
+      "asset": "assets/photos/module-05-food-science-comparisons.png",
+      "visual_id": "photo-m05"
+    },
+    {
+      "site_id": "site-visual-photo-m06",
+      "route": "modules/module-06.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Fair sensory comparison station",
+      "module_id": "m06",
+      "asset": "assets/photos/module-06-sensory-evaluation.png",
+      "visual_id": "photo-m06"
+    },
+    {
+      "site_id": "site-visual-photo-m07",
+      "route": "modules/module-07.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Produce, kitchen and recovery links",
+      "module_id": "m07",
+      "asset": "assets/photos/module-07-food-systems-sustainability.png",
+      "visual_id": "photo-m07"
+    },
+    {
+      "site_id": "site-visual-photo-m08",
+      "route": "modules/module-08.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Party menu design workspace",
+      "module_id": "m08",
+      "asset": "assets/photos/module-08-menu-design-workspace-v2.png",
+      "visual_id": "photo-m08"
+    },
+    {
+      "site_id": "site-visual-photo-m09",
+      "route": "modules/module-09.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Organised production workflow",
+      "module_id": "m09",
+      "asset": "assets/photos/module-09-production-workflow.png",
+      "visual_id": "photo-m09"
+    },
+    {
+      "site_id": "site-visual-photo-m10",
+      "route": "modules/module-10.html",
+      "anchor": "main",
+      "audience": "student",
+      "purpose": "Module photo: Final product and evaluation evidence",
+      "module_id": "m10",
+      "asset": "assets/photos/module-10-evaluation-evidence.png",
+      "visual_id": "photo-m10"
+    }
+  ],
+  "coverage": {
+    "modules": 10,
+    "named_sections": 30,
+    "theory_destinations": 30,
+    "knowledge_check_destinations": 30,
+    "capstone_destinations": 30,
+    "embedded_activity_destinations": 30,
+    "activity_bank_destinations": 30,
+    "section_visual_destinations": 30,
+    "module_photo_destinations": 10,
+    "process_visual_destinations": 10,
+    "total_visual_destinations": 50,
+    "embedded_video_destinations": 30,
+    "video_library_destinations": 30,
+    "presentations": 10,
+    "folio_stages": 8,
+    "assessment_routes": 2
+  },
+  "route_rule": "Every route existed in the frozen Stage 13 baseline. Dynamic anchors are the deterministic IDs emitted by the retained runtimes."
+}

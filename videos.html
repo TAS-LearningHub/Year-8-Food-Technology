@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Thirty optional, section-matched video learning clips for Year 8 Food Technology.">
+  <title>Video library | Year 8 Food Technology</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .video-summary {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+    .video-summary .card { box-shadow: none; }
+    .video-summary strong { display: block; color: var(--leaf-900); font-size: 1.8rem; line-height: 1; }
+    .video-module-group { margin-top: 4rem; }
+    .video-module-heading { max-width: var(--reading); margin-bottom: 1.15rem; }
+    .video-module-heading h2 { margin: 0 0 0.4rem; font-size: clamp(1.8rem, 4vw, 2.7rem); }
+    .video-module-heading p { margin: 0; color: var(--muted); }
+    .video-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1.25rem;
+      align-items: stretch;
+    }
+    .video-card {
+      min-width: 0;
+      overflow: hidden;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: var(--radius-md);
+      box-shadow: 0 7px 22px rgba(35, 60, 45, 0.08);
+    }
+    .video-card-body { display: flex; min-height: 430px; flex-direction: column; padding: 1.15rem; }
+    .video-media { position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #101612; }
+    .video-launch {
+      position: absolute;
+      inset: 0;
+      display: block;
+      width: 100%;
+      min-height: 100%;
+      padding: 0;
+      overflow: hidden;
+      color: #fff;
+      background: #101612;
+      border: 0;
+      cursor: pointer;
+    }
+    .video-launch img { display: block; width: 100%; height: 100%; object-fit: cover; }
+    .video-launch::after { content: ""; position: absolute; inset: 0; background: linear-gradient(transparent 42%, rgba(0,0,0,0.72)); }
+    .video-play {
+      position: absolute;
+      z-index: 1;
+      top: 50%;
+      left: 50%;
+      display: grid;
+      width: 58px;
+      height: 58px;
+      place-items: center;
+      padding-left: 4px;
+      color: #fff;
+      background: var(--tomato);
+      border: 3px solid #fff;
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+      box-shadow: 0 4px 14px rgba(0,0,0,0.35);
+    }
+    .video-launch-label {
+      position: absolute;
+      z-index: 1;
+      right: 0.8rem;
+      bottom: 0.6rem;
+      left: 0.8rem;
+      font-weight: 850;
+      text-align: left;
+    }
+    .video-launch:hover .video-play { background: #a52f28; transform: translate(-50%, -50%) scale(1.05); }
+    .video-player-shell { position: absolute; inset: 0; background: #000; }
+    .video-player-shell iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+    .video-player-controls { position: absolute; z-index: 2; top: 0.5rem; right: 0.5rem; }
+    .video-close {
+      min-height: 44px;
+      padding: 0.5rem 0.75rem;
+      color: #fff;
+      background: rgba(20, 31, 24, 0.94);
+      border: 2px solid #fff;
+      border-radius: 9px;
+      font: inherit;
+      font-size: 0.82rem;
+      font-weight: 850;
+      cursor: pointer;
+    }
+    .video-kicker { margin: 0; color: var(--berry); font-size: 0.76rem; font-weight: 850; letter-spacing: 0.05em; text-transform: uppercase; }
+    .video-title { margin: 0.45rem 0 0.35rem; overflow-wrap: anywhere; font-size: 1.25rem; }
+    .video-meta, .video-sample { margin: 0; color: var(--muted); font-size: 0.86rem; }
+    .video-purpose { margin: 0.85rem 0 0; }
+    .video-watch-for { margin: 0.85rem 0; padding: 0.75rem; background: #fff8e4; border-left: 5px solid var(--mustard); border-radius: 8px; }
+    .video-alternative { margin-top: 0.9rem; padding: 0.7rem 0.8rem; color: var(--muted); background: #f3f7f4; border-radius: 9px; }
+    .video-alternative summary { min-height: 44px; color: var(--leaf-900); font-weight: 800; cursor: pointer; }
+    .video-alternative p { margin: 0.55rem 0 0; }
+    .video-links { display: grid; grid-template-columns: 1fr 1fr; gap: 0.55rem; margin-top: auto; padding-top: 1rem; }
+    .video-links a {
+      display: inline-flex;
+      min-height: 46px;
+      align-items: center;
+      justify-content: center;
+      padding: 0.55rem 0.65rem;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      font-size: 0.84rem;
+      font-weight: 800;
+      text-align: center;
+      text-decoration: none;
+    }
+    .video-theory-link { color: #fff; background: var(--leaf-700); border-color: var(--leaf-700) !important; }
+    .video-card-compact .video-card-body { min-height: 0; }
+    @media (max-width: 1000px) {
+      .video-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 650px) {
+      .video-summary, .video-grid { grid-template-columns: 1fr; }
+      .video-module-group { margin-top: 3rem; }
+      .video-card-body { min-height: 0; }
+      .video-links { grid-template-columns: 1fr; }
+    }
+    @media print {
+      .video-media, .video-links { display: none; }
+      .video-card-body { min-height: 0; }
+      .video-grid { display: block; }
+      .video-card { margin-bottom: 1rem; box-shadow: none; break-inside: avoid; }
+    }
+  </style>
+</head>
+<body data-course-root=".">
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header"><div class="header-inner">
+    <a class="brand" href="index.html" aria-label="Year 8 Food Technology course home"><span class="brand-mark" aria-hidden="true">FT</span><span class="brand-copy"><span data-course-title>Year 8 Food Technology</span><small>Food for Purpose</small></span></a>
+    <span class="build-chip">Course candidate · formal use TBC</span>
+  </div></header>
+  <nav class="site-nav" aria-label="Course navigation"><div class="nav-scroll"><div class="nav-inner">
+    <a href="index.html" data-nav-route="course">Course</a><a href="index.html#modules" data-nav-route="modules">Modules</a><a href="activities.html" data-nav-route="activities">Applied activities</a><a href="videos.html" data-nav-route="videos">Video library</a><a href="folio.html" data-nav-route="folio">My folio</a><a href="assessment.html" data-nav-route="assessment">Assessment</a><a href="teacher-resources.html" data-nav-route="teacher">Teacher resources</a><a href="https://stevencowell.github.io/">Main Menu</a>
+  </div></div></nav>
+
+  <main id="main"><div class="page-shell">
+    <header class="page-intro">
+      <p class="eyebrow">Optional video learning · 30 named theory sections</p>
+      <h1>Video library</h1>
+      <p>Each clip has one precise learning purpose, one watch-for prompt and an equivalent reading pathway. No YouTube player loads until you choose <strong>Load video</strong>.</p>
+    </header>
+
+    <section class="video-summary" aria-label="Video library summary">
+      <article class="card"><strong>30</strong> section-matched clips</article>
+      <article class="card"><strong>30</strong> equivalent non-video paths</article>
+      <article class="card"><strong>0</strong> autoplaying players</article>
+    </section>
+
+    <section class="section" aria-labelledby="video-use-title">
+      <div class="notice"><strong id="video-use-title">Streaming is optional</strong>Read the watch-for prompt first. If streaming is blocked or unsuitable, open the equivalent path on the same card and continue the lesson without losing the learning point.</div>
+    </section>
+
+    <div data-video-library></div>
+    <noscript><section class="section"><div class="notice teacher"><strong>JavaScript is off</strong>The interactive library needs JavaScript. Use the theory links in the ten module pages; every video learning point has an equivalent reading activity.</div></section></noscript>
+  </div></main>
+
+  <footer class="site-footer"><div class="footer-inner"><span>Year 8 Food Technology · course candidate</span><span><a href="index.html">Course home</a> · <a href="sources.html">Sources and boundaries</a></span></div></footer>
+  <script src="data/course-config.js"></script>
+  <script src="shared.js"></script>
+  <script src="data/video-data.js"></script>
+  <script src="video-runtime.js"></script>
+</body>
+</html>
